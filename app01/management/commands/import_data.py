@@ -1,5 +1,6 @@
 from django.core.management.base import BaseCommand
 from app01.models import AirQuality
+from datetime import datetime, timedelta
 import pandas as pd
 
 class Command(BaseCommand):
@@ -17,6 +18,16 @@ class Command(BaseCommand):
         # 将 DataFrame 转换为字典列表
         data_dicts = df.to_dict(orient='records')
 
+        for row in data_dicts:
+            # 将字符串时间转换为日期对象
+            time_str = row['time']
+            time_date = datetime.strptime(time_str, '%Y-%m-%d')
+            # 将日期对象加6年
+            new_time_date = time_date + timedelta(days=365 * 6)
+            # 将日期对象转换回字符串
+            new_time_str = new_time_date.strftime('%Y-%m-%d')
+            # 更新字典中的时间字段
+            row['time'] = new_time_str
         # 批量插入数据
         batch_size = 1000
         for i in range(0, len(data_dicts), batch_size):
