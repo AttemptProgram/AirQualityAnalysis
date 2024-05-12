@@ -3,6 +3,16 @@ from __future__ import annotations
 import json
 import requests
 
+city_centers = json.load(open('city_centers.json', 'r', encoding='utf-8'))
+city_data = json.load(open('city_data.json', 'r', encoding='utf-8'))
+
+
+def get_city_position_by_name(city_name: str) -> None | dict:
+    res = list(filter(lambda city: city_name in city['city'], city_data))
+    if len(res) > 0:
+        return res[0]
+    return None
+
 
 def get_comprehensive_url(token: str, longitude, latitude):
     return (
