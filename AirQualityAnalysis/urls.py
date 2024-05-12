@@ -21,9 +21,11 @@ from app01 import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-
-    path('orm',views.orm),
-
+    path('orm', views.orm),
     path('test', views.test),
-    path("hello", views.from_city)
+    path("air_quality/", views.air_quality),
+    path("annually_weather/", views.annual_weather),
+    path("get_city", views.get_city),
+    path("current_weahter/", views.get_current_weather),
+    path("rank",views.rank)
 ]
