@@ -5,7 +5,7 @@ from datetime import datetime
 from django.http import HttpResponse, HttpRequest
 from pypinyin import pinyin, Style
 
-from app01.caiyun_weather import city_data, get_city_position_by_name, get_weather_test
+from app01.caiyun_weather import city_data, get_city_position_by_name, get_weather
 # Create your views here.
 from app01.models import AirQuality
 from app01.spyder import *
@@ -114,20 +114,31 @@ def get_province(req: HttpRequest):
             city = data.get('cityname')
             aqi = data.get('aqi')
             province = data.get('province')
+            if (province =="新疆"):
+                province=province+"维吾尔自治区"
+            elif (province =="广西"):
+                province=province+"壮族自治区"
+            elif (province == "宁夏"):
+                province = province +"回族自治区"
+            elif (province == "内蒙古" or province == "西藏"):
+                province = province + "自治区"
+            else:
+                province = province + "省"
             if province not in province_aqi_map:
                 province_aqi_map[province] = 0
                 province_count_map[province] = 0
-            province_aqi_map[province] =  province_aqi_map[province]+aqi
-            province_count_map[province] = province_count_map[province]+1
+            province_aqi_map[province] = province_aqi_map[province] + aqi
+            province_count_map[province] = province_count_map[province] + 1
         response_data = []
         for province, aqi in province_aqi_map.items():
             province_data_entry = {
                 'province': province,
-                'aqi': aqi/province_count_map[province],
+                'aqi': aqi / province_count_map[province],
             }
             response_data.append(province_data_entry)
 
         return HttpResponse(json.dumps(response_data), content_type='application/json')
+
 
 def rank(req: HttpRequest):
     if req.method == "POST":
@@ -198,7 +209,7 @@ annual_weather = simple_post_api(annual_weather_func)
 def get_current_weather(data):
     target_city = get_city_position_by_name(data['city'])
     if target_city is not None:
-        return get_weather_test(target_city['longitude'], target_city['latitude'])
+        return get_weather(target_city['longitude'], target_city['latitude'])
     else:
         return 404
 
