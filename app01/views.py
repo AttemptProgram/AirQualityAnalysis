@@ -39,9 +39,9 @@ def test(request):
 def air_quality(di):
     if 'city_name' in di and 'date' in di:
         city_name = di['city_name']
-        print("air_quality:"+city_name)
+        print("air_quality:" + city_name)
         date = di['date'].split("T")[0]
-        print("air_quality:"+date)
+        print("air_quality:" + date)
         data = AirQuality.objects.filter(cityname=city_name, time=date).first()
         response_data = []
         if data:
@@ -102,6 +102,32 @@ def get_city(req: HttpRequest):
     else:
         return HttpResponse("Unsupported HTTP method.")
 
+
+def get_province(req: HttpRequest):
+    if req.method == "POST":
+        return HttpResponse("GET method not supported for this endpoint.")
+    elif req.method == "GET":
+        province_aqi_map = {}
+        province_count_map = {}
+        for city_info in city_data:
+            data = city_info.get('data')
+            city = data.get('cityname')
+            aqi = data.get('aqi')
+            province = data.get('province')
+            if province not in province_aqi_map:
+                province_aqi_map[province] = 0
+                province_count_map[province] = 0
+            province_aqi_map[province] =  province_aqi_map[province]+aqi
+            province_count_map[province] = province_count_map[province]+1
+        response_data = []
+        for province, aqi in province_aqi_map.items():
+            province_data_entry = {
+                'province': province,
+                'aqi': aqi/province_count_map[province],
+            }
+            response_data.append(province_data_entry)
+
+        return HttpResponse(json.dumps(response_data), content_type='application/json')
 
 def rank(req: HttpRequest):
     if req.method == "POST":
