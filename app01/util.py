@@ -31,7 +31,9 @@ def chat(words: str, role: str = "user") -> str | None:
 
 def simple_post_api(fun: Callable[[any], any]) -> Callable[[HttpRequest], HttpResponse]:
     def f(req: HttpRequest):
-        response_data = fun(json.loads(req.body))
+        request_data = json.loads(req.body)
+        print(request_data)
+        response_data = fun(request_data)
         return HttpResponse(status=404) if isinstance(response_data, int) else HttpResponse(json.dumps(response_data))
     return f
 
