@@ -34,34 +34,29 @@ def test(request):
     return HttpResponse("{\"message\": \"Hello World\"}")
 
 
-def air_quality(req: HttpRequest):
-    if req.method == "POST":
-        di = json.loads(req.body)
-        if 'city_name' in di and 'date' in di:
-            city_name = di['city_name']
-            date = di['date']
-            data = AirQuality.objects.filter(cityname=city_name, time=date).first()
-            response_data = []
-            if data:
-                response_data = {
-                    'data': {
-                        'time': data.time.strftime('%Y-%m-%d'),
-                        'cityname': data.cityname,
-                        'aqi': data.aqi,
-                        'pm2_5': data.pm2_5,
-                        'pm10': data.pm10,
-                        'so2': data.so2,
-                        'no2': data.no2,
-                        'co': data.co,
-                        'o3': data.o3,
-                        'primary_pollutant': data.primary_pollutant
-                    }
+@simple_post_api
+def air_quality(di):
+    if 'city_name' in di and 'date' in di:
+        city_name = di['city_name']
+        date = di['date']
+        data = AirQuality.objects.filter(cityname=city_name, time=date).first()
+        response_data = []
+        if data:
+            response_data = {
+                'data': {
+                    'time': data.time.strftime('%Y-%m-%d'),
+                    'cityname': data.cityname,
+                    'aqi': data.aqi,
+                    'pm2_5': data.pm2_5,
+                    'pm10': data.pm10,
+                    'so2': data.so2,
+                    'no2': data.no2,
+                    'co': data.co,
+                    'o3': data.o3,
+                    'primary_pollutant': data.primary_pollutant
                 }
-            return HttpResponse(json.dumps(response_data), content_type='application/json')
-    elif req.method == "GET":
-        return HttpResponse("GET method not supported for this endpoint.")
-    else:
-        return HttpResponse("Unsupported HTTP method.")
+            }
+        return response_data
 
 
 def get_city(req: HttpRequest):
