@@ -38,7 +38,9 @@ def test(request):
 def air_quality(di):
     if 'city_name' in di and 'date' in di:
         city_name = di['city_name']
-        date = di['date']
+        date = di['date'].split('T')[0]
+        # print('air_quality:'+city_name)
+        # print('air_quality:'+date)
         data = AirQuality.objects.filter(cityname=city_name, time=date).first()
         response_data = []
         if data:
@@ -149,7 +151,7 @@ def annual_weather(data):
     for i in range(1, 13):
         new_thread = threading.Thread(target=lambda: append_res(i))
         append_thread_pool.append(new_thread)
-        new_thread.start()
+        new_thread.run()
 
     for t in append_thread_pool:
         try:
