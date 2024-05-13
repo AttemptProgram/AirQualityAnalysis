@@ -1,17 +1,14 @@
-from datetime import datetime
 import json
 import threading
 from datetime import datetime
 
 from django.http import HttpResponse, HttpRequest
-from django.shortcuts import render
 from pypinyin import pinyin, Style
 
+from app01.caiyun_weather import city_data, get_city_position_by_name, get_weather_test
 # Create your views here.
 from app01.models import AirQuality
-from app01.caiyun_weather import city_data, city_centers, get_city_position_by_name, get_weather
 from app01.spyder import *
-
 from app01.util import simple_post_api, chat
 
 
@@ -172,7 +169,7 @@ annual_weather = simple_post_api(annual_weather_func)
 def get_current_weather(data):
     target_city = get_city_position_by_name(data['city'])
     if target_city is not None:
-        return get_weather(target_city['longitude'], target_city['latitude'])
+        return get_weather_test(target_city['longitude'], target_city['latitude'])
     else:
         return 404
 
