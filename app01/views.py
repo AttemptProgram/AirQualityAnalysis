@@ -45,7 +45,7 @@ def air_quality(di):
         if data:
             response_data = {
                 'data': {
-                    'time': data.time.strftime('%Y-%m-%d'),
+                    'time': data.time,
                     'cityname': data.cityname,
                     'aqi': data.aqi,
                     'pm2_5': data.pm2_5,
