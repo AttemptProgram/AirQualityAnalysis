@@ -5,7 +5,7 @@ from django.http import HttpResponse, HttpRequest
 from django.shortcuts import render
 # Create your views here.
 from app01.models import AirQuality
-from app01.caiyun_weather import city_data, get_city_position_by_name, get_weather
+from app01.caiyun_weather import city_data, city_centers, get_city_position_by_name, get_weather
 from app01.spyder import *
 
 from app01.util import simple_post_api
@@ -68,59 +68,72 @@ def get_city(req: HttpRequest):
     if req.method == "POST":
         return HttpResponse("GET method not supported for this endpoint.")
     elif req.method == "GET":
-        #     response_data = []
-        #     city_province_map = {}
-        #     cities = set()
-        #     for city_info in city_data:
-        #         city = city_info.get('city')
-        #         if city not in cities:
-        #             cities.add(city)
-        #             province = city_info.get('province')
-        #             city_province_map[city] = province
-        #     print(cities)
-        #     count=0
-        #     for name in cities:
-        #         data = AirQuality.objects.filter(cityname=name, time="2024-05-13").first()
-        #         count=count+1
-        #         print(count)
-        #         if data:
-        #             city_data_entry = {
-        #                 'data': {
-        #                     'time': data.time.strftime('%Y-%m-%d'),
-        #                     'cityname': data.cityname,
-        #                     'aqi': data.aqi,
-        #                     'pm2_5': data.pm2_5,
-        #                     'pm10': data.pm10,
-        #                     'so2': data.so2,
-        #                     'no2': data.no2,
-        #                     'co': data.co,
-        #                     'o3': data.o3,
-        #                     'primary_pollutant': data.primary_pollutant
-        #                 }
+        # response_data = []
+        # city_province_map = {}
+        # cities = set()
+        # for city_info in city_centers:
+        #     city = city_info.get('city')
+        #     if city not in cities:
+        #         cities.add(city)
+        #         province = city_info.get('province')
+        #         city_province_map[city] = province
+        # count = 0
+        # for name in cities:
+        #     data = AirQuality.objects.filter(cityname=name, time="2024-05-13").first()
+        #     count = count + 1
+        #     print(count)
+        #     if data:
+        #         city_data_entry = {
+        #             'data': {
+        #                 'time': data.time.strftime('%Y-%m-%d'),
+        #                 'cityname': data.cityname,
+        #                 'province': city_province_map[data.cityname],
+        #                 'aqi': data.aqi,
+        #                 'pm2_5': data.pm2_5,
+        #                 'pm10': data.pm10,
+        #                 'so2': data.so2,
+        #                 'no2': data.no2,
+        #                 'co': data.co,
+        #                 'o3': data.o3,
+        #                 'primary_pollutant': data.primary_pollutant
         #             }
-        #             response_data.append(city_data_entry)
+        #         }
+        #         response_data.append(city_data_entry)
         return HttpResponse(json.dumps(city_data), content_type='application/json')
     else:
         return HttpResponse("Unsupported HTTP method.")
 
 
-def rank(req):
+def rank(req: HttpRequest):
     if req.method == "POST":
-        return HttpResponse({"error": "GET method not supported for this endpoint."})
+        return HttpResponse({"ersror": "GET method not supported for this endpoint."})
     elif req.method == "GET":
         city_aqi_map = {}
+        city_province_map = {}
         for city_info in city_data:
-            city = city_info.get('cityname')
-            aqi = city_info.get('aqi')
+            data = city_info.get('data')
+            city = data.get('cityname')
+            aqi = data.get('aqi')
+            province = data.get('province')
             city_aqi_map[city] = aqi
-
+            city_province_map[city] = province
+            print(city)
+            print(aqi)
+            print(province)
             # 对城市按照 AQI 值进行排序
-        sorted_cities = sorted(city_aqi_map.items(), key=lambda x: x[1])
-
-        # 构建排序后的城市列表
-        sorted_city_list = [{"city": city, "aqi": aqi} for city, aqi in sorted_cities]
-
-        return HttpResponse(sorted_city_list, safe=False)
+        sorted_cities = sorted(city_aqi_map.items(), key=lambda x: x[1],reverse=True)
+        response_data = []
+        count = 0
+        for city, aqi in sorted_cities:
+            count = count + 1
+            city_data_entry = {
+                'cityname': city,
+                'province': city_province_map[city],
+                'aqi': aqi,
+                'rank': count
+            }
+            response_data.append(city_data_entry)
+        return HttpResponse(json.dumps(response_data), content_type='application/json')
     else:
         return HttpResponse({"error": "Unsupported HTTP method."})
 
