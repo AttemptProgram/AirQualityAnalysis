@@ -141,7 +141,7 @@ def annual_weather(data):
     for i in range(1, 13):
         new_thread = threading.Thread(target=lambda: append_res(i))
         append_thread_pool.append(new_thread)
-        new_thread.run()
+        new_thread.start()
 
     for t in append_thread_pool:
         try:
