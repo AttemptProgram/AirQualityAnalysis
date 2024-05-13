@@ -19,7 +19,7 @@ def get_comprehensive_url(token: str, longitude, latitude):
     return (
         f"https://api.caiyunapp.com/v2.6/TAkhjf8d1nlSlspN/{longitude},{latitude}/weather?"
         f"alert=true&"
-        f"dailysteps=3&"
+        f"dailysteps=14&"
         f"hourlysteps=24&"
         f"token={token}"
     )
