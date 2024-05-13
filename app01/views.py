@@ -118,7 +118,7 @@ def rank(req: HttpRequest):
             print(aqi)
             print(province)
             # 对城市按照 AQI 值进行排序
-        sorted_cities = sorted(city_aqi_map.items(), key=lambda x: x[1],reverse=True)
+        sorted_cities = sorted(city_aqi_map.items(), key=lambda x: x[1], reverse=True)
         response_data = []
         count = 0
         for city, aqi in sorted_cities:
@@ -135,8 +135,7 @@ def rank(req: HttpRequest):
         return HttpResponse({"error": "Unsupported HTTP method."})
 
 
-@simple_post_api
-def annual_weather(data):
+def annual_weather_func(data):
     city = data['city_pinyin']
     year = data['year']
     res = []
@@ -162,6 +161,9 @@ def annual_weather(data):
     res.sort(key=lambda e: e['month'])
 
     return res
+
+
+annual_weather = simple_post_api(annual_weather_func)
 
 
 @simple_post_api
