@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    "app01.apps.App01Config"
+    "app01.apps.App01Config",
+    "corsheaders"
 ]
 
 MIDDLEWARE = [
@@ -48,7 +49,17 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    "corsheaders.middleware.CorsMiddleware",
 ]
+
+# 解决请求跨域问题配置
+CORS_ORIGIN_ALLOW_ALL = True  # 允许所有域名跨域或者下面的白名单设置
+# CORS_ORIGIN_REGEX_WHITELIST = [  # 可跨域白名单设置
+#     "*"
+# ]
+CORS_ALLOW_METHODS = "*"  # 配置允许的请求方式
+CORS_ALLOW_HEADERS = "*"  # 配置允许的请求头
+CORS_ALLOW_CREDENTIALS = True  # 允许携带cookie
 
 ROOT_URLCONF = 'AirQualityAnalysis.urls'
 
