@@ -1,4427 +1,4427 @@
 [
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "菏泽",
-			"province": "山东",
-			"aqi": 75,
-			"pm2_5": 26,
-			"pm10": 80,
-			"so2": 9,
-			"no2": 22,
-			"co": 1.1,
-			"o3": 135,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "临沂",
-			"province": "山东",
-			"aqi": 98,
-			"pm2_5": 45,
-			"pm10": 120,
-			"so2": 12,
-			"no2": 31,
-			"co": 1.2,
-			"o3": 184,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "七台河",
-			"province": "黑龙江",
-			"aqi": 140,
-			"pm2_5": 64,
-			"pm10": 154,
-			"so2": 18,
-			"no2": 32,
-			"co": 0.6,
-			"o3": 220,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "漯河",
-			"province": "河南",
-			"aqi": 69,
-			"pm2_5": 32,
-			"pm10": 62,
-			"so2": 8,
-			"no2": 14,
-			"co": 0.8,
-			"o3": 132,
-			"primary_pollutant": "O3"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "南京",
-			"province": "江苏",
-			"aqi": 82,
-			"pm2_5": 37,
-			"pm10": 70,
-			"so2": 11,
-			"no2": 33,
-			"co": 0.7,
-			"o3": 151,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "临汾",
-			"province": "山西",
-			"aqi": 92,
-			"pm2_5": 50,
-			"pm10": 107,
-			"so2": 18,
-			"no2": 27,
-			"co": 0.9,
-			"o3": 187,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "兰州",
-			"province": "甘肃",
-			"aqi": 95,
-			"pm2_5": 49,
-			"pm10": 140,
-			"so2": 12,
-			"no2": 48,
-			"co": 0.9,
-			"o3": 143,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "荆州",
-			"province": "湖北",
-			"aqi": 59,
-			"pm2_5": 31,
-			"pm10": 61,
-			"so2": 12,
-			"no2": 17,
-			"co": 0.9,
-			"o3": 117,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "呼和浩特",
-			"province": "内蒙古",
-			"aqi": 150,
-			"pm2_5": 51,
-			"pm10": 150,
-			"so2": 19,
-			"no2": 54,
-			"co": 0.9,
-			"o3": 232,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "朝阳",
-			"province": "辽宁",
-			"aqi": 111,
-			"pm2_5": 80,
-			"pm10": 114,
-			"so2": 16,
-			"no2": 17,
-			"co": 1.2,
-			"o3": 193,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "鞍山",
-			"province": "辽宁",
-			"aqi": 72,
-			"pm2_5": 25,
-			"pm10": 46,
-			"so2": 6,
-			"no2": 12,
-			"co": 0.8,
-			"o3": 134,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "朔州",
-			"province": "山西",
-			"aqi": 120,
-			"pm2_5": 70,
-			"pm10": 168,
-			"so2": 23,
-			"no2": 31,
-			"co": 1,
-			"o3": 196,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "秦皇岛",
-			"province": "河北",
-			"aqi": 73,
-			"pm2_5": 50,
-			"pm10": 96,
-			"so2": 9,
-			"no2": 32,
-			"co": 0.9,
-			"o3": 157,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "西宁",
-			"province": "青海",
-			"aqi": 107,
-			"pm2_5": 51,
-			"pm10": 163,
-			"so2": 23,
-			"no2": 44,
-			"co": 1.4,
-			"o3": 135,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "贵港",
-			"province": "广西",
-			"aqi": 37,
-			"pm2_5": 17,
-			"pm10": 37,
-			"so2": 7,
-			"no2": 14,
-			"co": 0.5,
-			"o3": 76,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "抚州",
-			"province": "江西",
-			"aqi": 62,
-			"pm2_5": 26,
-			"pm10": 40,
-			"so2": 8,
-			"no2": 12,
-			"co": 0.7,
-			"o3": 120,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "镇江",
-			"province": "江苏",
-			"aqi": 76,
-			"pm2_5": 46,
-			"pm10": 81,
-			"so2": 6,
-			"no2": 25,
-			"co": 0.8,
-			"o3": 169,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "无锡",
-			"province": "江苏",
-			"aqi": 114,
-			"pm2_5": 43,
-			"pm10": 74,
-			"so2": 11,
-			"no2": 29,
-			"co": 0.7,
-			"o3": 190,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "太原",
-			"province": "山西",
-			"aqi": 128,
-			"pm2_5": 91,
-			"pm10": 206,
-			"so2": 14,
-			"no2": 44,
-			"co": 1,
-			"o3": 192,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "泸州",
-			"province": "四川",
-			"aqi": 151,
-			"pm2_5": 45,
-			"pm10": 84,
-			"so2": 30,
-			"no2": 50,
-			"co": 0.5,
-			"o3": 233,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "滨州",
-			"province": "山东",
-			"aqi": 99,
-			"pm2_5": 74,
-			"pm10": 102,
-			"so2": 12,
-			"no2": 32,
-			"co": 1.8,
-			"o3": 214,
-			"primary_pollutant": "细颗粒物(PM2.5)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "永州",
-			"province": "湖南",
-			"aqi": 42,
-			"pm2_5": 24,
-			"pm10": 42,
-			"so2": 9,
-			"no2": 14,
-			"co": 0.4,
-			"o3": 89,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "宁波",
-			"province": "浙江",
-			"aqi": 70,
-			"pm2_5": 34,
-			"pm10": 47,
-			"so2": 7,
-			"no2": 16,
-			"co": 0.7,
-			"o3": 138,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "邵阳",
-			"province": "湖南",
-			"aqi": 44,
-			"pm2_5": 26,
-			"pm10": 44,
-			"so2": 12,
-			"no2": 13,
-			"co": 0.6,
-			"o3": 87,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "中卫",
-			"province": "宁夏",
-			"aqi": 0,
-			"pm2_5": 0,
-			"pm10": 0,
-			"so2": 12,
-			"no2": 20,
-			"co": 0.6,
-			"o3": 124,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "咸阳",
-			"province": "陕西",
-			"aqi": 150,
-			"pm2_5": 41,
-			"pm10": 113,
-			"so2": 16,
-			"no2": 50,
-			"co": 0.9,
-			"o3": 255,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "扬州",
-			"province": "江苏",
-			"aqi": 74,
-			"pm2_5": 43,
-			"pm10": 97,
-			"so2": 14,
-			"no2": 36,
-			"co": 0.9,
-			"o3": 136,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "湘潭",
-			"province": "湖南",
-			"aqi": 44,
-			"pm2_5": 21,
-			"pm10": 42,
-			"so2": 19,
-			"no2": 22,
-			"co": 0.8,
-			"o3": 102,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "葫芦岛",
-			"province": "辽宁",
-			"aqi": 71,
-			"pm2_5": 40,
-			"pm10": 53,
-			"so2": 9,
-			"no2": 16,
-			"co": 1.1,
-			"o3": 138,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "云浮",
-			"province": "广东",
-			"aqi": 36,
-			"pm2_5": 16,
-			"pm10": 30,
-			"so2": 7,
-			"no2": 12,
-			"co": 0.6,
-			"o3": 77,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "常州",
-			"province": "江苏",
-			"aqi": 120,
-			"pm2_5": 45,
-			"pm10": 65,
-			"so2": 16,
-			"no2": 38,
-			"co": 0.9,
-			"o3": 205,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "新乡",
-			"province": "河南",
-			"aqi": 85,
-			"pm2_5": 32,
-			"pm10": 56,
-			"so2": 18,
-			"no2": 24,
-			"co": 1.2,
-			"o3": 178,
-			"primary_pollutant": "O3"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "达州",
-			"province": "四川",
-			"aqi": 90,
-			"pm2_5": 54,
-			"pm10": 86,
-			"so2": 8,
-			"no2": 46,
-			"co": 0.9,
-			"o3": 160,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "昆明",
-			"province": "云南",
-			"aqi": 58,
-			"pm2_5": 24,
-			"pm10": 53,
-			"so2": 14,
-			"no2": 29,
-			"co": 0.7,
-			"o3": 113,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "乌兰察布",
-			"province": "内蒙古",
-			"aqi": 128,
-			"pm2_5": 44,
-			"pm10": 98,
-			"so2": 30,
-			"no2": 22,
-			"co": 0.6,
-			"o3": 202,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "南宁",
-			"province": "广西",
-			"aqi": 37,
-			"pm2_5": 18,
-			"pm10": 35,
-			"so2": 8,
-			"no2": 19,
-			"co": 0.8,
-			"o3": 77,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "开封",
-			"province": "河南",
-			"aqi": 66,
-			"pm2_5": 33,
-			"pm10": 76,
-			"so2": 7,
-			"no2": 14,
-			"co": 0.8,
-			"o3": 128,
-			"primary_pollutant": "O3"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "天津",
-			"province": "天津",
-			"aqi": 98,
-			"pm2_5": 73,
-			"pm10": 96,
-			"so2": 10,
-			"no2": 48,
-			"co": 1.3,
-			"o3": 175,
-			"primary_pollutant": "细颗粒物(PM2.5)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "沈阳",
-			"province": "辽宁",
-			"aqi": 84,
-			"pm2_5": 33,
-			"pm10": 74,
-			"so2": 21,
-			"no2": 20,
-			"co": 1,
-			"o3": 156,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "承德",
-			"province": "河北",
-			"aqi": 111,
-			"pm2_5": 48,
-			"pm10": 119,
-			"so2": 11,
-			"no2": 26,
-			"co": 1.1,
-			"o3": 188,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "温州",
-			"province": "浙江",
-			"aqi": 53,
-			"pm2_5": 29,
-			"pm10": 55,
-			"so2": 7,
-			"no2": 15,
-			"co": 0.7,
-			"o3": 118,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "张掖",
-			"province": "甘肃",
-			"aqi": 56,
-			"pm2_5": 26,
-			"pm10": 56,
-			"so2": 6,
-			"no2": 17,
-			"co": 0.3,
-			"o3": 112,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "延安",
-			"province": "陕西",
-			"aqi": 88,
-			"pm2_5": 37,
-			"pm10": 102,
-			"so2": 11,
-			"no2": 46,
-			"co": 1.2,
-			"o3": 161,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "潍坊",
-			"province": "山东",
-			"aqi": 80,
-			"pm2_5": 54,
-			"pm10": 83,
-			"so2": 8,
-			"no2": 29,
-			"co": 0.6,
-			"o3": 168,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "宜宾",
-			"province": "四川",
-			"aqi": 186,
-			"pm2_5": 56,
-			"pm10": 102,
-			"so2": 30,
-			"no2": 48,
-			"co": 1.1,
-			"o3": 278,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "山南",
-			"province": "西藏",
-			"aqi": 89,
-			"pm2_5": 14,
-			"pm10": 21,
-			"so2": 4,
-			"no2": 10,
-			"co": 0.6,
-			"o3": 152,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "莱芜",
-			"province": "山东",
-			"aqi": 76,
-			"pm2_5": 45,
-			"pm10": 82,
-			"so2": 15,
-			"no2": 23,
-			"co": 1.1,
-			"o3": 145,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "广元",
-			"province": "四川",
-			"aqi": 111,
-			"pm2_5": 58,
-			"pm10": 81,
-			"so2": 27,
-			"no2": 44,
-			"co": 0.8,
-			"o3": 208,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "德州",
-			"province": "山东",
-			"aqi": 56,
-			"pm2_5": 35,
-			"pm10": 61,
-			"so2": 11,
-			"no2": 22,
-			"co": 0.8,
-			"o3": 104,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "上海",
-			"province": "上海",
-			"aqi": 130,
-			"pm2_5": 52,
-			"pm10": 67,
-			"so2": 15,
-			"no2": 31,
-			"co": 0.7,
-			"o3": 245,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "鸡西",
-			"province": "黑龙江",
-			"aqi": 81,
-			"pm2_5": 39,
-			"pm10": 111,
-			"so2": 3,
-			"no2": 23,
-			"co": 0.6,
-			"o3": 137,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "内江",
-			"province": "四川",
-			"aqi": 140,
-			"pm2_5": 55,
-			"pm10": 96,
-			"so2": 18,
-			"no2": 44,
-			"co": 0.8,
-			"o3": 239,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "铁岭",
-			"province": "辽宁",
-			"aqi": 88,
-			"pm2_5": 33,
-			"pm10": 85,
-			"so2": 8,
-			"no2": 19,
-			"co": 0.5,
-			"o3": 157,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "南充",
-			"province": "四川",
-			"aqi": 140,
-			"pm2_5": 65,
-			"pm10": 105,
-			"so2": 9,
-			"no2": 42,
-			"co": 0.9,
-			"o3": 228,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "赤峰",
-			"province": "内蒙古",
-			"aqi": 96,
-			"pm2_5": 52,
-			"pm10": 142,
-			"so2": 16,
-			"no2": 23,
-			"co": 0.8,
-			"o3": 170,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "南昌",
-			"province": "江西",
-			"aqi": 65,
-			"pm2_5": 12,
-			"pm10": 44,
-			"so2": 14,
-			"no2": 22,
-			"co": 0.9,
-			"o3": 126,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "佛山",
-			"province": "广东",
-			"aqi": 54,
-			"pm2_5": 16,
-			"pm10": 30,
-			"so2": 8,
-			"no2": 16,
-			"co": 0.6,
-			"o3": 120,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "三明",
-			"province": "福建",
-			"aqi": 65,
-			"pm2_5": 29,
-			"pm10": 50,
-			"so2": 16,
-			"no2": 29,
-			"co": 1.3,
-			"o3": 129,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "曲靖",
-			"province": "云南",
-			"aqi": 67,
-			"pm2_5": 22,
-			"pm10": 44,
-			"so2": 11,
-			"no2": 10,
-			"co": 0.6,
-			"o3": 126,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "长春",
-			"province": "吉林",
-			"aqi": 90,
-			"pm2_5": 38,
-			"pm10": 76,
-			"so2": 5,
-			"no2": 25,
-			"co": 1,
-			"o3": 166,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "松原",
-			"province": "吉林",
-			"aqi": 0,
-			"pm2_5": 0,
-			"pm10": 0,
-			"so2": 10,
-			"no2": 16,
-			"co": 0.8,
-			"o3": 236,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "阳江",
-			"province": "广东",
-			"aqi": 24,
-			"pm2_5": 10,
-			"pm10": 20,
-			"so2": 6,
-			"no2": 6,
-			"co": 0.6,
-			"o3": 50,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "荆门",
-			"province": "湖北",
-			"aqi": 65,
-			"pm2_5": 28,
-			"pm10": 60,
-			"so2": 10,
-			"no2": 18,
-			"co": 0.8,
-			"o3": 131,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "西安",
-			"province": "陕西",
-			"aqi": 119,
-			"pm2_5": 37,
-			"pm10": 88,
-			"so2": 10,
-			"no2": 43,
-			"co": 0.9,
-			"o3": 234,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "大庆",
-			"province": "黑龙江",
-			"aqi": 98,
-			"pm2_5": 39,
-			"pm10": 86,
-			"so2": 14,
-			"no2": 19,
-			"co": 0.6,
-			"o3": 175,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "克拉玛依",
-			"province": "新疆",
-			"aqi": 74,
-			"pm2_5": 14,
-			"pm10": 32,
-			"so2": 6,
-			"no2": 11,
-			"co": 0.6,
-			"o3": 135,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "石河子",
-			"province": "新疆",
-			"aqi": 59,
-			"pm2_5": 16,
-			"pm10": 32,
-			"so2": 12,
-			"no2": 18,
-			"co": 0.8,
-			"o3": 106,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "韶关",
-			"province": "广东",
-			"aqi": 93,
-			"pm2_5": 28,
-			"pm10": 48,
-			"so2": 16,
-			"no2": 25,
-			"co": 0.7,
-			"o3": 163,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "双鸭山",
-			"province": "黑龙江",
-			"aqi": 80,
-			"pm2_5": 32,
-			"pm10": 64,
-			"so2": 6,
-			"no2": 14,
-			"co": 0.5,
-			"o3": 144,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "六安",
-			"province": "安徽",
-			"aqi": 71,
-			"pm2_5": 38,
-			"pm10": 62,
-			"so2": 6,
-			"no2": 20,
-			"co": 0.6,
-			"o3": 131,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "深圳",
-			"province": "广东",
-			"aqi": 30,
-			"pm2_5": 14,
-			"pm10": 22,
-			"so2": 7,
-			"no2": 22,
-			"co": 0.4,
-			"o3": 71,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "林芝",
-			"province": "西藏",
-			"aqi": 55,
-			"pm2_5": 7,
-			"pm10": 25,
-			"so2": 4,
-			"no2": 6,
-			"co": 0.4,
-			"o3": 117,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "忻州",
-			"province": "山西",
-			"aqi": 148,
-			"pm2_5": 113,
-			"pm10": 176,
-			"so2": 39,
-			"no2": 42,
-			"co": 1.3,
-			"o3": 209,
-			"primary_pollutant": "细颗粒物(PM2.5)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "鹰潭",
-			"province": "江西",
-			"aqi": 69,
-			"pm2_5": 27,
-			"pm10": 44,
-			"so2": 15,
-			"no2": 17,
-			"co": 0.6,
-			"o3": 136,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "吴忠",
-			"province": "宁夏",
-			"aqi": 0,
-			"pm2_5": 0,
-			"pm10": 0,
-			"so2": 14,
-			"no2": 30,
-			"co": 0.4,
-			"o3": 142,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "泉州",
-			"province": "福建",
-			"aqi": 37,
-			"pm2_5": 14,
-			"pm10": 37,
-			"so2": 8,
-			"no2": 15,
-			"co": 0.5,
-			"o3": 87,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "阜阳",
-			"province": "安徽",
-			"aqi": 55,
-			"pm2_5": 33,
-			"pm10": 59,
-			"so2": 7,
-			"no2": 15,
-			"co": 0.5,
-			"o3": 113,
-			"primary_pollutant": "颗粒物(PM10),臭氧8小时(O3_8"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "济宁",
-			"province": "山东",
-			"aqi": 79,
-			"pm2_5": 38,
-			"pm10": 97,
-			"so2": 22,
-			"no2": 18,
-			"co": 0.7,
-			"o3": 158,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "白城",
-			"province": "吉林",
-			"aqi": 0,
-			"pm2_5": 0,
-			"pm10": 0,
-			"so2": 12,
-			"no2": 15,
-			"co": 0.8,
-			"o3": 186,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "泰安",
-			"province": "山东",
-			"aqi": 81,
-			"pm2_5": 34,
-			"pm10": 72,
-			"so2": 7,
-			"no2": 18,
-			"co": 0.7,
-			"o3": 149,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "郑州",
-			"province": "河南",
-			"aqi": 85,
-			"pm2_5": 39,
-			"pm10": 82,
-			"so2": 8,
-			"no2": 37,
-			"co": 1,
-			"o3": 168,
-			"primary_pollutant": "O3"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "巴彦淖尔",
-			"province": "内蒙古",
-			"aqi": 117,
-			"pm2_5": 42,
-			"pm10": 133,
-			"so2": 9,
-			"no2": 14,
-			"co": 0.4,
-			"o3": 215,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "蚌埠",
-			"province": "安徽",
-			"aqi": 85,
-			"pm2_5": 40,
-			"pm10": 70,
-			"so2": 14,
-			"no2": 20,
-			"co": 0.6,
-			"o3": 158,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "芜湖",
-			"province": "安徽",
-			"aqi": 67,
-			"pm2_5": 28,
-			"pm10": 50,
-			"so2": 7,
-			"no2": 22,
-			"co": 0.9,
-			"o3": 140,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "牡丹江",
-			"province": "黑龙江",
-			"aqi": 77,
-			"pm2_5": 42,
-			"pm10": 97,
-			"so2": 4,
-			"no2": 27,
-			"co": 0.7,
-			"o3": 141,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "随州",
-			"province": "湖北",
-			"aqi": 64,
-			"pm2_5": 28,
-			"pm10": 49,
-			"so2": 5,
-			"no2": 8,
-			"co": 0.5,
-			"o3": 121,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "沧州",
-			"province": "河北",
-			"aqi": 64,
-			"pm2_5": 42,
-			"pm10": 78,
-			"so2": 25,
-			"no2": 34,
-			"co": 0.9,
-			"o3": 140,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "连云港",
-			"province": "江苏",
-			"aqi": 87,
-			"pm2_5": 64,
-			"pm10": 69,
-			"so2": 9,
-			"no2": 20,
-			"co": 0.9,
-			"o3": 144,
-			"primary_pollutant": "细颗粒物(PM2.5)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "昌都",
-			"province": "西藏",
-			"aqi": 77,
-			"pm2_5": 20,
-			"pm10": 58,
-			"so2": 6,
-			"no2": 20,
-			"co": 0.6,
-			"o3": 142,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "河源",
-			"province": "广东",
-			"aqi": 81,
-			"pm2_5": 27,
-			"pm10": 32,
-			"so2": 6,
-			"no2": 13,
-			"co": 0.6,
-			"o3": 154,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "武汉",
-			"province": "湖北",
-			"aqi": 54,
-			"pm2_5": 25,
-			"pm10": 58,
-			"so2": 5,
-			"no2": 29,
-			"co": 0.6,
-			"o3": 111,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "遵义",
-			"province": "贵州",
-			"aqi": 82,
-			"pm2_5": 34,
-			"pm10": 64,
-			"so2": 13,
-			"no2": 29,
-			"co": 0.6,
-			"o3": 144,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "十堰",
-			"province": "湖北",
-			"aqi": 78,
-			"pm2_5": 41,
-			"pm10": 70,
-			"so2": 15,
-			"no2": 18,
-			"co": 0.9,
-			"o3": 159,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "莆田",
-			"province": "福建",
-			"aqi": 54,
-			"pm2_5": 22,
-			"pm10": 44,
-			"so2": 10,
-			"no2": 22,
-			"co": 0.6,
-			"o3": 142,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "长治",
-			"province": "山西",
-			"aqi": 89,
-			"pm2_5": 32,
-			"pm10": 58,
-			"so2": 9,
-			"no2": 15,
-			"co": 0.7,
-			"o3": 165,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "伊春",
-			"province": "黑龙江",
-			"aqi": 60,
-			"pm2_5": 19,
-			"pm10": 36,
-			"so2": 4,
-			"no2": 11,
-			"co": 0.4,
-			"o3": 118,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "石家庄",
-			"province": "河北",
-			"aqi": 104,
-			"pm2_5": 77,
-			"pm10": 157,
-			"so2": 23,
-			"no2": 42,
-			"co": 1,
-			"o3": 135,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "庆阳",
-			"province": "甘肃",
-			"aqi": 84,
-			"pm2_5": 34,
-			"pm10": 74,
-			"so2": 6,
-			"no2": 14,
-			"co": 0.6,
-			"o3": 149,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "武威",
-			"province": "甘肃",
-			"aqi": 0,
-			"pm2_5": 0,
-			"pm10": 0,
-			"so2": 4,
-			"no2": 14,
-			"co": 0.4,
-			"o3": 136,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "四平",
-			"province": "吉林",
-			"aqi": 119,
-			"pm2_5": 43,
-			"pm10": 112,
-			"so2": 6,
-			"no2": 11,
-			"co": 0.7,
-			"o3": 202,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "唐山",
-			"province": "河北",
-			"aqi": 102,
-			"pm2_5": 76,
-			"pm10": 151,
-			"so2": 51,
-			"no2": 71,
-			"co": 2.5,
-			"o3": 170,
-			"primary_pollutant": "细颗粒物(PM2.5)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "大同",
-			"province": "山西",
-			"aqi": 126,
-			"pm2_5": 68,
-			"pm10": 100,
-			"so2": 23,
-			"no2": 36,
-			"co": 1.2,
-			"o3": 212,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "梅州",
-			"province": "广东",
-			"aqi": 46,
-			"pm2_5": 24,
-			"pm10": 43,
-			"so2": 6,
-			"no2": 18,
-			"co": 0.7,
-			"o3": 98,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "盘锦",
-			"province": "辽宁",
-			"aqi": 96,
-			"pm2_5": 45,
-			"pm10": 56,
-			"so2": 11,
-			"no2": 16,
-			"co": 1,
-			"o3": 176,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "黄石",
-			"province": "湖北",
-			"aqi": 52,
-			"pm2_5": 32,
-			"pm10": 53,
-			"so2": 17,
-			"no2": 27,
-			"co": 1,
-			"o3": 105,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "五家渠",
-			"province": "新疆",
-			"aqi": 0,
-			"pm2_5": 16,
-			"pm10": 22,
-			"so2": 9,
-			"no2": 12,
-			"co": 0,
-			"o3": 119,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "安庆",
-			"province": "安徽",
-			"aqi": 59,
-			"pm2_5": 27,
-			"pm10": 46,
-			"so2": 9,
-			"no2": 21,
-			"co": 0.4,
-			"o3": 122,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "许昌",
-			"province": "河南",
-			"aqi": 65,
-			"pm2_5": 31,
-			"pm10": 70,
-			"so2": 7,
-			"no2": 22,
-			"co": 0.9,
-			"o3": 131,
-			"primary_pollutant": "O3"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "雅安",
-			"province": "四川",
-			"aqi": 137,
-			"pm2_5": 63,
-			"pm10": 80,
-			"so2": 18,
-			"no2": 21,
-			"co": 0.6,
-			"o3": 224,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "遂宁",
-			"province": "四川",
-			"aqi": 130,
-			"pm2_5": 53,
-			"pm10": 99,
-			"so2": 14,
-			"no2": 45,
-			"co": 0.9,
-			"o3": 205,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "杭州",
-			"province": "浙江",
-			"aqi": 77,
-			"pm2_5": 34,
-			"pm10": 56,
-			"so2": 7,
-			"no2": 32,
-			"co": 0.8,
-			"o3": 143,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "银川",
-			"province": "宁夏",
-			"aqi": 121,
-			"pm2_5": 41,
-			"pm10": 120,
-			"so2": 17,
-			"no2": 39,
-			"co": 0.8,
-			"o3": 206,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "广安",
-			"province": "四川",
-			"aqi": 131,
-			"pm2_5": 56,
-			"pm10": 94,
-			"so2": 16,
-			"no2": 40,
-			"co": 1,
-			"o3": 224,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "益阳",
-			"province": "湖南",
-			"aqi": 55,
-			"pm2_5": 14,
-			"pm10": 33,
-			"so2": 8,
-			"no2": 11,
-			"co": 0.7,
-			"o3": 110,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "金昌",
-			"province": "甘肃",
-			"aqi": 74,
-			"pm2_5": 17,
-			"pm10": 82,
-			"so2": 3,
-			"no2": 4,
-			"co": 0.2,
-			"o3": 130,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "乌海",
-			"province": "内蒙古",
-			"aqi": 157,
-			"pm2_5": 51,
-			"pm10": 168,
-			"so2": 57,
-			"no2": 28,
-			"co": 1,
-			"o3": 247,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "金华",
-			"province": "浙江",
-			"aqi": 95,
-			"pm2_5": 34,
-			"pm10": 54,
-			"so2": 9,
-			"no2": 26,
-			"co": 0.6,
-			"o3": 175,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "汉中",
-			"province": "陕西",
-			"aqi": 110,
-			"pm2_5": 48,
-			"pm10": 82,
-			"so2": 12,
-			"no2": 27,
-			"co": 0.9,
-			"o3": 191,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "舟山",
-			"province": "浙江",
-			"aqi": 33,
-			"pm2_5": 19,
-			"pm10": 32,
-			"so2": 8,
-			"no2": 17,
-			"co": 0.7,
-			"o3": 75,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "晋中",
-			"province": "山西",
-			"aqi": 118,
-			"pm2_5": 89,
-			"pm10": 148,
-			"so2": 10,
-			"no2": 25,
-			"co": 1.2,
-			"o3": 142,
-			"primary_pollutant": "细颗粒物(PM2.5)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "湛江",
-			"province": "广东",
-			"aqi": 38,
-			"pm2_5": 15,
-			"pm10": 25,
-			"so2": 7,
-			"no2": 9,
-			"co": 0.6,
-			"o3": 93,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "张家口",
-			"province": "河北",
-			"aqi": 133,
-			"pm2_5": 71,
-			"pm10": 163,
-			"so2": 14,
-			"no2": 25,
-			"co": 1.3,
-			"o3": 211,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "潮州",
-			"province": "广东",
-			"aqi": 50,
-			"pm2_5": 19,
-			"pm10": 42,
-			"so2": 15,
-			"no2": 12,
-			"co": 0.9,
-			"o3": 120,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "辽阳",
-			"province": "辽宁",
-			"aqi": 76,
-			"pm2_5": 20,
-			"pm10": 38,
-			"so2": 15,
-			"no2": 8,
-			"co": 0.7,
-			"o3": 146,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "齐齐哈尔",
-			"province": "黑龙江",
-			"aqi": 80,
-			"pm2_5": 30,
-			"pm10": 72,
-			"so2": 6,
-			"no2": 15,
-			"co": 0.6,
-			"o3": 151,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "北京",
-			"province": "北京",
-			"aqi": 90,
-			"pm2_5": 67,
-			"pm10": 103,
-			"so2": 5,
-			"no2": 44,
-			"co": 1.1,
-			"o3": 180,
-			"primary_pollutant": "细颗粒物(PM2.5)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "宜春",
-			"province": "江西",
-			"aqi": 53,
-			"pm2_5": 30,
-			"pm10": 49,
-			"so2": 15,
-			"no2": 17,
-			"co": 0.7,
-			"o3": 112,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "贵阳",
-			"province": "贵州",
-			"aqi": 58,
-			"pm2_5": 24,
-			"pm10": 54,
-			"so2": 6,
-			"no2": 16,
-			"co": 0.5,
-			"o3": 116,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "南阳",
-			"province": "河南",
-			"aqi": 73,
-			"pm2_5": 31,
-			"pm10": 64,
-			"so2": 6,
-			"no2": 18,
-			"co": 0.7,
-			"o3": 139,
-			"primary_pollutant": "O3"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "周口",
-			"province": "河南",
-			"aqi": 66,
-			"pm2_5": 32,
-			"pm10": 69,
-			"so2": 8,
-			"no2": 14,
-			"co": 0.8,
-			"o3": 128,
-			"primary_pollutant": "O3"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "济南",
-			"province": "山东",
-			"aqi": 67,
-			"pm2_5": 29,
-			"pm10": 66,
-			"so2": 14,
-			"no2": 30,
-			"co": 0.8,
-			"o3": 150,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "邢台",
-			"province": "河北",
-			"aqi": 65,
-			"pm2_5": 37,
-			"pm10": 81,
-			"so2": 19,
-			"no2": 41,
-			"co": 1.2,
-			"o3": 110,
-			"primary_pollutant": "PM10"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "淄博",
-			"province": "山东",
-			"aqi": 66,
-			"pm2_5": 41,
-			"pm10": 81,
-			"so2": 14,
-			"no2": 29,
-			"co": 1.4,
-			"o3": 141,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "泰州",
-			"province": "江苏",
-			"aqi": 88,
-			"pm2_5": 54,
-			"pm10": 93,
-			"so2": 13,
-			"no2": 42,
-			"co": 1.2,
-			"o3": 161,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "汕尾",
-			"province": "广东",
-			"aqi": 29,
-			"pm2_5": 15,
-			"pm10": 21,
-			"so2": 8,
-			"no2": 7,
-			"co": 0.7,
-			"o3": 68,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "烟台",
-			"province": "山东",
-			"aqi": 58,
-			"pm2_5": 26,
-			"pm10": 49,
-			"so2": 7,
-			"no2": 15,
-			"co": 0.5,
-			"o3": 147,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "三亚",
-			"province": "海南",
-			"aqi": 22,
-			"pm2_5": 10,
-			"pm10": 20,
-			"so2": 3,
-			"no2": 11,
-			"co": 0.6,
-			"o3": 48,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "固原",
-			"province": "宁夏",
-			"aqi": 99,
-			"pm2_5": 39,
-			"pm10": 96,
-			"so2": 6,
-			"no2": 33,
-			"co": 0.6,
-			"o3": 169,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "枣庄",
-			"province": "山东",
-			"aqi": 84,
-			"pm2_5": 48,
-			"pm10": 107,
-			"so2": 11,
-			"no2": 26,
-			"co": 0.6,
-			"o3": 156,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "聊城",
-			"province": "山东",
-			"aqi": 60,
-			"pm2_5": 38,
-			"pm10": 69,
-			"so2": 7,
-			"no2": 25,
-			"co": 1.1,
-			"o3": 107,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "廊坊",
-			"province": "河北",
-			"aqi": 81,
-			"pm2_5": 57,
-			"pm10": 104,
-			"so2": 16,
-			"no2": 38,
-			"co": 1.4,
-			"o3": 170,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "孝感",
-			"province": "湖北",
-			"aqi": 74,
-			"pm2_5": 25,
-			"pm10": 50,
-			"so2": 9,
-			"no2": 10,
-			"co": 0.8,
-			"o3": 142,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "德阳",
-			"province": "四川",
-			"aqi": 164,
-			"pm2_5": 58,
-			"pm10": 118,
-			"so2": 14,
-			"no2": 36,
-			"co": 0.8,
-			"o3": 258,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "丹东",
-			"province": "辽宁",
-			"aqi": 61,
-			"pm2_5": 31,
-			"pm10": 46,
-			"so2": 12,
-			"no2": 18,
-			"co": 0.8,
-			"o3": 135,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "张家界",
-			"province": "湖南",
-			"aqi": 54,
-			"pm2_5": 26,
-			"pm10": 58,
-			"so2": 8,
-			"no2": 20,
-			"co": 0.9,
-			"o3": 114,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "宝鸡",
-			"province": "陕西",
-			"aqi": 115,
-			"pm2_5": 44,
-			"pm10": 112,
-			"so2": 9,
-			"no2": 45,
-			"co": 0.8,
-			"o3": 191,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "景德镇",
-			"province": "江西",
-			"aqi": 73,
-			"pm2_5": 26,
-			"pm10": 50,
-			"so2": 21,
-			"no2": 8,
-			"co": 0.8,
-			"o3": 138,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "陇南",
-			"province": "甘肃",
-			"aqi": 80,
-			"pm2_5": 39,
-			"pm10": 61,
-			"so2": 14,
-			"no2": 22,
-			"co": 0.7,
-			"o3": 142,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "鹤岗",
-			"province": "黑龙江",
-			"aqi": 83,
-			"pm2_5": 26,
-			"pm10": 64,
-			"so2": 9,
-			"no2": 14,
-			"co": 0.6,
-			"o3": 145,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "宣城",
-			"province": "安徽",
-			"aqi": 47,
-			"pm2_5": 26,
-			"pm10": 47,
-			"so2": 8,
-			"no2": 22,
-			"co": 0.5,
-			"o3": 91,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "佳木斯",
-			"province": "黑龙江",
-			"aqi": 82,
-			"pm2_5": 31,
-			"pm10": 60,
-			"so2": 5,
-			"no2": 24,
-			"co": 0.6,
-			"o3": 153,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "本溪",
-			"province": "辽宁",
-			"aqi": 62,
-			"pm2_5": 22,
-			"pm10": 39,
-			"so2": 13,
-			"no2": 17,
-			"co": 1.2,
-			"o3": 128,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "石嘴山",
-			"province": "宁夏",
-			"aqi": 0,
-			"pm2_5": 0,
-			"pm10": 0,
-			"so2": 32,
-			"no2": 28,
-			"co": 0.9,
-			"o3": 224,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "中山",
-			"province": "广东",
-			"aqi": 38,
-			"pm2_5": 12,
-			"pm10": 23,
-			"so2": 6,
-			"no2": 8,
-			"co": 0.6,
-			"o3": 84,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "上饶",
-			"province": "江西",
-			"aqi": 65,
-			"pm2_5": 30,
-			"pm10": 54,
-			"so2": 6,
-			"no2": 14,
-			"co": 1.1,
-			"o3": 120,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "岳阳",
-			"province": "湖南",
-			"aqi": 64,
-			"pm2_5": 19,
-			"pm10": 39,
-			"so2": 10,
-			"no2": 12,
-			"co": 0.6,
-			"o3": 126,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "长沙",
-			"province": "湖南",
-			"aqi": 50,
-			"pm2_5": 20,
-			"pm10": 41,
-			"so2": 10,
-			"no2": 20,
-			"co": 0.6,
-			"o3": 114,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "鄂尔多斯",
-			"province": "内蒙古",
-			"aqi": 119,
-			"pm2_5": 38,
-			"pm10": 102,
-			"so2": 13,
-			"no2": 21,
-			"co": 0.8,
-			"o3": 186,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "福州",
-			"province": "福建",
-			"aqi": 98,
-			"pm2_5": 30,
-			"pm10": 66,
-			"so2": 9,
-			"no2": 28,
-			"co": 0.7,
-			"o3": 185,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "商洛",
-			"province": "陕西",
-			"aqi": 58,
-			"pm2_5": 34,
-			"pm10": 61,
-			"so2": 10,
-			"no2": 22,
-			"co": 0.7,
-			"o3": 122,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "淮北",
-			"province": "安徽",
-			"aqi": 66,
-			"pm2_5": 37,
-			"pm10": 70,
-			"so2": 14,
-			"no2": 18,
-			"co": 0.8,
-			"o3": 125,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "衢州",
-			"province": "浙江",
-			"aqi": 67,
-			"pm2_5": 32,
-			"pm10": 50,
-			"so2": 8,
-			"no2": 30,
-			"co": 0.7,
-			"o3": 136,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "合肥",
-			"province": "安徽",
-			"aqi": 79,
-			"pm2_5": 35,
-			"pm10": 70,
-			"so2": 6,
-			"no2": 20,
-			"co": 0.6,
-			"o3": 140,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "拉萨",
-			"province": "西藏",
-			"aqi": 107,
-			"pm2_5": 35,
-			"pm10": 62,
-			"so2": 9,
-			"no2": 16,
-			"co": 0.4,
-			"o3": 163,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "郴州",
-			"province": "湖南",
-			"aqi": 46,
-			"pm2_5": 14,
-			"pm10": 46,
-			"so2": 14,
-			"no2": 13,
-			"co": 1.2,
-			"o3": 106,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "三门峡",
-			"province": "河南",
-			"aqi": 73,
-			"pm2_5": 39,
-			"pm10": 80,
-			"so2": 9,
-			"no2": 25,
-			"co": 0.8,
-			"o3": 148,
-			"primary_pollutant": "O3"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "平凉",
-			"province": "甘肃",
-			"aqi": 110,
-			"pm2_5": 44,
-			"pm10": 82,
-			"so2": 14,
-			"no2": 40,
-			"co": 0.6,
-			"o3": 192,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "崇左",
-			"province": "广西",
-			"aqi": 60,
-			"pm2_5": 18,
-			"pm10": 40,
-			"so2": 8,
-			"no2": 12,
-			"co": 0.6,
-			"o3": 120,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "钦州",
-			"province": "广西",
-			"aqi": 29,
-			"pm2_5": 12,
-			"pm10": 28,
-			"so2": 9,
-			"no2": 9,
-			"co": 0.6,
-			"o3": 62,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "阿拉善盟",
-			"province": "内蒙古",
-			"aqi": 97,
-			"pm2_5": 59,
-			"pm10": 143,
-			"so2": 8,
-			"no2": 8,
-			"co": 0.5,
-			"o3": 148,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "马鞍山",
-			"province": "安徽",
-			"aqi": 87,
-			"pm2_5": 36,
-			"pm10": 74,
-			"so2": 7,
-			"no2": 21,
-			"co": 0.6,
-			"o3": 166,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "柳州",
-			"province": "广西",
-			"aqi": 42,
-			"pm2_5": 17,
-			"pm10": 30,
-			"so2": 5,
-			"no2": 11,
-			"co": 0.5,
-			"o3": 93,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "惠州",
-			"province": "广东",
-			"aqi": 44,
-			"pm2_5": 17,
-			"pm10": 31,
-			"so2": 6,
-			"no2": 19,
-			"co": 0.5,
-			"o3": 97,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "梧州",
-			"province": "广西",
-			"aqi": 51,
-			"pm2_5": 30,
-			"pm10": 52,
-			"so2": 10,
-			"no2": 25,
-			"co": 0.9,
-			"o3": 87,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "阜新",
-			"province": "辽宁",
-			"aqi": 103,
-			"pm2_5": 48,
-			"pm10": 110,
-			"so2": 14,
-			"no2": 14,
-			"co": 0.8,
-			"o3": 183,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "晋城",
-			"province": "山西",
-			"aqi": 90,
-			"pm2_5": 42,
-			"pm10": 79,
-			"so2": 16,
-			"no2": 23,
-			"co": 0.9,
-			"o3": 155,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "定西",
-			"province": "甘肃",
-			"aqi": 74,
-			"pm2_5": 38,
-			"pm10": 98,
-			"so2": 6,
-			"no2": 26,
-			"co": 0.4,
-			"o3": 133,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "常德",
-			"province": "湖南",
-			"aqi": 50,
-			"pm2_5": 24,
-			"pm10": 42,
-			"so2": 12,
-			"no2": 12,
-			"co": 0.9,
-			"o3": 103,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "信阳",
-			"province": "河南",
-			"aqi": 74,
-			"pm2_5": 28,
-			"pm10": 54,
-			"so2": 8,
-			"no2": 9,
-			"co": 0.5,
-			"o3": 132,
-			"primary_pollutant": "O3"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "青岛",
-			"province": "山东",
-			"aqi": 55,
-			"pm2_5": 27,
-			"pm10": 44,
-			"so2": 4,
-			"no2": 18,
-			"co": 0.4,
-			"o3": 136,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "安康",
-			"province": "陕西",
-			"aqi": 82,
-			"pm2_5": 38,
-			"pm10": 64,
-			"so2": 9,
-			"no2": 14,
-			"co": 0.5,
-			"o3": 161,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "乌鲁木齐",
-			"province": "新疆",
-			"aqi": 52,
-			"pm2_5": 36,
-			"pm10": 34,
-			"so2": 8,
-			"no2": 28,
-			"co": 0.8,
-			"o3": 115,
-			"primary_pollutant": "细颗粒物(PM2.5)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "淮安",
-			"province": "江苏",
-			"aqi": 102,
-			"pm2_5": 54,
-			"pm10": 92,
-			"so2": 13,
-			"no2": 28,
-			"co": 1.1,
-			"o3": 179,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "抚顺",
-			"province": "辽宁",
-			"aqi": 85,
-			"pm2_5": 29,
-			"pm10": 54,
-			"so2": 18,
-			"no2": 13,
-			"co": 0.8,
-			"o3": 154,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "包头",
-			"province": "内蒙古",
-			"aqi": 131,
-			"pm2_5": 39,
-			"pm10": 104,
-			"so2": 18,
-			"no2": 42,
-			"co": 0.7,
-			"o3": 214,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "衡水",
-			"province": "河北",
-			"aqi": 68,
-			"pm2_5": 49,
-			"pm10": 67,
-			"so2": 10,
-			"no2": 18,
-			"co": 0.7,
-			"o3": 102,
-			"primary_pollutant": "细颗粒物(PM2.5)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "新余",
-			"province": "江西",
-			"aqi": 58,
-			"pm2_5": 34,
-			"pm10": 65,
-			"so2": 46,
-			"no2": 29,
-			"co": 1.5,
-			"o3": 107,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "铜陵",
-			"province": "安徽",
-			"aqi": 49,
-			"pm2_5": 27,
-			"pm10": 49,
-			"so2": 15,
-			"no2": 27,
-			"co": 0.6,
-			"o3": 96,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "攀枝花",
-			"province": "四川",
-			"aqi": 74,
-			"pm2_5": 25,
-			"pm10": 52,
-			"so2": 27,
-			"no2": 40,
-			"co": 1.1,
-			"o3": 134,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "铜川",
-			"province": "陕西",
-			"aqi": 104,
-			"pm2_5": 41,
-			"pm10": 87,
-			"so2": 15,
-			"no2": 33,
-			"co": 1,
-			"o3": 176,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "东营",
-			"province": "山东",
-			"aqi": 88,
-			"pm2_5": 65,
-			"pm10": 117,
-			"so2": 25,
-			"no2": 26,
-			"co": 1.2,
-			"o3": 178,
-			"primary_pollutant": "细颗粒物(PM2.5)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "毕节",
-			"province": "贵州",
-			"aqi": 92,
-			"pm2_5": 34,
-			"pm10": 86,
-			"so2": 20,
-			"no2": 32,
-			"co": 1,
-			"o3": 157,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "襄阳",
-			"province": "湖北",
-			"aqi": 81,
-			"pm2_5": 34,
-			"pm10": 68,
-			"so2": 9,
-			"no2": 11,
-			"co": 0.8,
-			"o3": 142,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "厦门",
-			"province": "福建",
-			"aqi": 25,
-			"pm2_5": 11,
-			"pm10": 22,
-			"so2": 9,
-			"no2": 20,
-			"co": 0.3,
-			"o3": 57,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "肇庆",
-			"province": "广东",
-			"aqi": 43,
-			"pm2_5": 17,
-			"pm10": 31,
-			"so2": 14,
-			"no2": 14,
-			"co": 0.5,
-			"o3": 95,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "宿迁",
-			"province": "江苏",
-			"aqi": 73,
-			"pm2_5": 46,
-			"pm10": 68,
-			"so2": 16,
-			"no2": 22,
-			"co": 0.8,
-			"o3": 135,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "日喀则",
-			"province": "西藏",
-			"aqi": 84,
-			"pm2_5": 18,
-			"pm10": 46,
-			"so2": 6,
-			"no2": 5,
-			"co": 0.6,
-			"o3": 146,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "通辽",
-			"province": "内蒙古",
-			"aqi": 117,
-			"pm2_5": 74,
-			"pm10": 181,
-			"so2": 10,
-			"no2": 16,
-			"co": 0.7,
-			"o3": 194,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "威海",
-			"province": "山东",
-			"aqi": 47,
-			"pm2_5": 25,
-			"pm10": 36,
-			"so2": 6,
-			"no2": 19,
-			"co": 0.4,
-			"o3": 107,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "吕梁",
-			"province": "山西",
-			"aqi": 84,
-			"pm2_5": 59,
-			"pm10": 106,
-			"so2": 38,
-			"no2": 62,
-			"co": 2.4,
-			"o3": 182,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "保定",
-			"province": "河北",
-			"aqi": 83,
-			"pm2_5": 61,
-			"pm10": 103,
-			"so2": 42,
-			"no2": 34,
-			"co": 0.9,
-			"o3": 148,
-			"primary_pollutant": "细颗粒物(PM2.5)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "阳泉",
-			"province": "山西",
-			"aqi": 145,
-			"pm2_5": 111,
-			"pm10": 195,
-			"so2": 21,
-			"no2": 37,
-			"co": 1.8,
-			"o3": 187,
-			"primary_pollutant": "细颗粒物(PM2.5)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "鄂州",
-			"province": "湖北",
-			"aqi": 55,
-			"pm2_5": 36,
-			"pm10": 60,
-			"so2": 10,
-			"no2": 26,
-			"co": 1,
-			"o3": 113,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "自贡",
-			"province": "四川",
-			"aqi": 177,
-			"pm2_5": 64,
-			"pm10": 111,
-			"so2": 18,
-			"no2": 46,
-			"co": 1.1,
-			"o3": 276,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "百色",
-			"province": "广西",
-			"aqi": 55,
-			"pm2_5": 29,
-			"pm10": 60,
-			"so2": 17,
-			"no2": 21,
-			"co": 1.2,
-			"o3": 113,
-			"primary_pollutant": "颗粒物(PM10),臭氧8小时(O3_8"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "天水",
-			"province": "甘肃",
-			"aqi": 99,
-			"pm2_5": 42,
-			"pm10": 95,
-			"so2": 9,
-			"no2": 33,
-			"co": 0.7,
-			"o3": 170,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "九江",
-			"province": "江西",
-			"aqi": 65,
-			"pm2_5": 27,
-			"pm10": 57,
-			"so2": 15,
-			"no2": 13,
-			"co": 0.5,
-			"o3": 127,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "来宾",
-			"province": "广西",
-			"aqi": 41,
-			"pm2_5": 18,
-			"pm10": 38,
-			"so2": 10,
-			"no2": 9,
-			"co": 0.5,
-			"o3": 92,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "白银",
-			"province": "甘肃",
-			"aqi": 93,
-			"pm2_5": 40,
-			"pm10": 136,
-			"so2": 26,
-			"no2": 24,
-			"co": 0.8,
-			"o3": 128,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "白山",
-			"province": "吉林",
-			"aqi": 72,
-			"pm2_5": 44,
-			"pm10": 78,
-			"so2": 10,
-			"no2": 15,
-			"co": 1,
-			"o3": 134,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "龙岩",
-			"province": "福建",
-			"aqi": 47,
-			"pm2_5": 25,
-			"pm10": 46,
-			"so2": 5,
-			"no2": 14,
-			"co": 0.7,
-			"o3": 97,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "乐山",
-			"province": "四川",
-			"aqi": 150,
-			"pm2_5": 77,
-			"pm10": 123,
-			"so2": 20,
-			"no2": 56,
-			"co": 0.9,
-			"o3": 229,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "绵阳",
-			"province": "四川",
-			"aqi": 150,
-			"pm2_5": 65,
-			"pm10": 110,
-			"so2": 8,
-			"no2": 44,
-			"co": 0.8,
-			"o3": 234,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "丽水",
-			"province": "浙江",
-			"aqi": 60,
-			"pm2_5": 34,
-			"pm10": 59,
-			"so2": 6,
-			"no2": 19,
-			"co": 0.7,
-			"o3": 138,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "鹤壁",
-			"province": "河南",
-			"aqi": 67,
-			"pm2_5": 33,
-			"pm10": 69,
-			"so2": 16,
-			"no2": 22,
-			"co": 1,
-			"o3": 130,
-			"primary_pollutant": "O3"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "北海",
-			"province": "广西",
-			"aqi": 31,
-			"pm2_5": 7,
-			"pm10": 31,
-			"so2": 6,
-			"no2": 8,
-			"co": 0.6,
-			"o3": 57,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "锦州",
-			"province": "辽宁",
-			"aqi": 72,
-			"pm2_5": 43,
-			"pm10": 65,
-			"so2": 29,
-			"no2": 23,
-			"co": 0.9,
-			"o3": 143,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "兴安盟",
-			"province": "内蒙古",
-			"aqi": 87,
-			"pm2_5": 36,
-			"pm10": 96,
-			"so2": 11,
-			"no2": 17,
-			"co": 0.9,
-			"o3": 157,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "海口",
-			"province": "海南",
-			"aqi": 41,
-			"pm2_5": 10,
-			"pm10": 27,
-			"so2": 4,
-			"no2": 14,
-			"co": 0.5,
-			"o3": 114,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "江门",
-			"province": "广东",
-			"aqi": 35,
-			"pm2_5": 14,
-			"pm10": 27,
-			"so2": 7,
-			"no2": 13,
-			"co": 0.5,
-			"o3": 75,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "东莞",
-			"province": "广东",
-			"aqi": 44,
-			"pm2_5": 15,
-			"pm10": 24,
-			"so2": 6,
-			"no2": 20,
-			"co": 0.5,
-			"o3": 100,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "徐州",
-			"province": "江苏",
-			"aqi": 69,
-			"pm2_5": 45,
-			"pm10": 80,
-			"so2": 14,
-			"no2": 24,
-			"co": 0.9,
-			"o3": 129,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "桂林",
-			"province": "广西",
-			"aqi": 40,
-			"pm2_5": 22,
-			"pm10": 38,
-			"so2": 7,
-			"no2": 18,
-			"co": 0.9,
-			"o3": 90,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "亳州",
-			"province": "安徽",
-			"aqi": 66,
-			"pm2_5": 32,
-			"pm10": 67,
-			"so2": 9,
-			"no2": 15,
-			"co": 0.7,
-			"o3": 124,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "台州",
-			"province": "浙江",
-			"aqi": 67,
-			"pm2_5": 25,
-			"pm10": 40,
-			"so2": 4,
-			"no2": 6,
-			"co": 0.4,
-			"o3": 134,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "湖州",
-			"province": "浙江",
-			"aqi": 75,
-			"pm2_5": 34,
-			"pm10": 64,
-			"so2": 11,
-			"no2": 34,
-			"co": 1,
-			"o3": 145,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "安阳",
-			"province": "河南",
-			"aqi": 58,
-			"pm2_5": 39,
-			"pm10": 66,
-			"so2": 11,
-			"no2": 28,
-			"co": 1.3,
-			"o3": 111,
-			"primary_pollutant": "PM10"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "广州",
-			"province": "广东",
-			"aqi": 65,
-			"pm2_5": 19,
-			"pm10": 34,
-			"so2": 9,
-			"no2": 31,
-			"co": 0.6,
-			"o3": 153,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "揭阳",
-			"province": "广东",
-			"aqi": 42,
-			"pm2_5": 22,
-			"pm10": 42,
-			"so2": 12,
-			"no2": 14,
-			"co": 0.8,
-			"o3": 104,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "资阳",
-			"province": "四川",
-			"aqi": 140,
-			"pm2_5": 33,
-			"pm10": 88,
-			"so2": 10,
-			"no2": 44,
-			"co": 0.8,
-			"o3": 218,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "河池",
-			"province": "广西",
-			"aqi": 49,
-			"pm2_5": 26,
-			"pm10": 48,
-			"so2": 6,
-			"no2": 22,
-			"co": 1,
-			"o3": 105,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "淮南",
-			"province": "安徽",
-			"aqi": 80,
-			"pm2_5": 43,
-			"pm10": 62,
-			"so2": 18,
-			"no2": 15,
-			"co": 0.6,
-			"o3": 145,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "焦作",
-			"province": "河南",
-			"aqi": 80,
-			"pm2_5": 45,
-			"pm10": 71,
-			"so2": 8,
-			"no2": 19,
-			"co": 1,
-			"o3": 159,
-			"primary_pollutant": "O3"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "普洱",
-			"province": "云南",
-			"aqi": 77,
-			"pm2_5": 26,
-			"pm10": 52,
-			"so2": 6,
-			"no2": 26,
-			"co": 0.3,
-			"o3": 140,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "珠海",
-			"province": "广东",
-			"aqi": 30,
-			"pm2_5": 11,
-			"pm10": 19,
-			"so2": 4,
-			"no2": 9,
-			"co": 0.6,
-			"o3": 69,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "滁州",
-			"province": "安徽",
-			"aqi": 92,
-			"pm2_5": 42,
-			"pm10": 84,
-			"so2": 13,
-			"no2": 26,
-			"co": 0.8,
-			"o3": 158,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "黑河",
-			"province": "黑龙江",
-			"aqi": 48,
-			"pm2_5": 16,
-			"pm10": 26,
-			"so2": 6,
-			"no2": 10,
-			"co": 0.5,
-			"o3": 104,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "衡阳",
-			"province": "湖南",
-			"aqi": 45,
-			"pm2_5": 24,
-			"pm10": 45,
-			"so2": 17,
-			"no2": 16,
-			"co": 0.8,
-			"o3": 81,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "玉溪",
-			"province": "云南",
-			"aqi": 60,
-			"pm2_5": 21,
-			"pm10": 57,
-			"so2": 11,
-			"no2": 20,
-			"co": 0.9,
-			"o3": 117,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "娄底",
-			"province": "湖南",
-			"aqi": 42,
-			"pm2_5": 21,
-			"pm10": 36,
-			"so2": 19,
-			"no2": 12,
-			"co": 1.2,
-			"o3": 88,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "盐城",
-			"province": "江苏",
-			"aqi": 115,
-			"pm2_5": 48,
-			"pm10": 80,
-			"so2": 11,
-			"no2": 23,
-			"co": 0.9,
-			"o3": 197,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "重庆",
-			"province": "重庆",
-			"aqi": 139,
-			"pm2_5": 34,
-			"pm10": 75,
-			"so2": 13,
-			"no2": 64,
-			"co": 1,
-			"o3": 230,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "株洲",
-			"province": "湖南",
-			"aqi": 48,
-			"pm2_5": 19,
-			"pm10": 37,
-			"so2": 16,
-			"no2": 16,
-			"co": 0.4,
-			"o3": 106,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "驻马店",
-			"province": "河南",
-			"aqi": 67,
-			"pm2_5": 43,
-			"pm10": 66,
-			"so2": 11,
-			"no2": 17,
-			"co": 0.6,
-			"o3": 124,
-			"primary_pollutant": "O3"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "嘉兴",
-			"province": "浙江",
-			"aqi": 120,
-			"pm2_5": 56,
-			"pm10": 72,
-			"so2": 10,
-			"no2": 27,
-			"co": 1.2,
-			"o3": 195,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "日照",
-			"province": "山东",
-			"aqi": 63,
-			"pm2_5": 35,
-			"pm10": 58,
-			"so2": 9,
-			"no2": 18,
-			"co": 0.5,
-			"o3": 136,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "贺州",
-			"province": "广西",
-			"aqi": 55,
-			"pm2_5": 35,
-			"pm10": 60,
-			"so2": 18,
-			"no2": 16,
-			"co": 0.7,
-			"o3": 80,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "临沧",
-			"province": "云南",
-			"aqi": 76,
-			"pm2_5": 24,
-			"pm10": 37,
-			"so2": 10,
-			"no2": 14,
-			"co": 0.8,
-			"o3": 136,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "渭南",
-			"province": "陕西",
-			"aqi": 109,
-			"pm2_5": 35,
-			"pm10": 89,
-			"so2": 15,
-			"no2": 32,
-			"co": 0.7,
-			"o3": 184,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "黄山",
-			"province": "安徽",
-			"aqi": 46,
-			"pm2_5": 26,
-			"pm10": 46,
-			"so2": 13,
-			"no2": 14,
-			"co": 0.6,
-			"o3": 78,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "咸宁",
-			"province": "湖北",
-			"aqi": 52,
-			"pm2_5": 20,
-			"pm10": 33,
-			"so2": 2,
-			"no2": 11,
-			"co": 0.9,
-			"o3": 110,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "池州",
-			"province": "安徽",
-			"aqi": 46,
-			"pm2_5": 26,
-			"pm10": 40,
-			"so2": 8,
-			"no2": 23,
-			"co": 0.4,
-			"o3": 102,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "酒泉",
-			"province": "甘肃",
-			"aqi": 91,
-			"pm2_5": 26,
-			"pm10": 131,
-			"so2": 6,
-			"no2": 8,
-			"co": 0.4,
-			"o3": 124,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "营口",
-			"province": "辽宁",
-			"aqi": 79,
-			"pm2_5": 28,
-			"pm10": 56,
-			"so2": 6,
-			"no2": 13,
-			"co": 0.6,
-			"o3": 145,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "六盘水",
-			"province": "贵州",
-			"aqi": 60,
-			"pm2_5": 28,
-			"pm10": 57,
-			"so2": 13,
-			"no2": 18,
-			"co": 0.5,
-			"o3": 117,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "绍兴",
-			"province": "浙江",
-			"aqi": 102,
-			"pm2_5": 37,
-			"pm10": 52,
-			"so2": 4,
-			"no2": 10,
-			"co": 0.5,
-			"o3": 174,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "昭通",
-			"province": "云南",
-			"aqi": 67,
-			"pm2_5": 9,
-			"pm10": 36,
-			"so2": 14,
-			"no2": 14,
-			"co": 0.4,
-			"o3": 126,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "吉林",
-			"province": "吉林",
-			"aqi": 89,
-			"pm2_5": 46,
-			"pm10": 82,
-			"so2": 8,
-			"no2": 18,
-			"co": 1,
-			"o3": 161,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "保山",
-			"province": "云南",
-			"aqi": 60,
-			"pm2_5": 21,
-			"pm10": 35,
-			"so2": 6,
-			"no2": 8,
-			"co": 0.5,
-			"o3": 115,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "呼伦贝尔",
-			"province": "内蒙古",
-			"aqi": 94,
-			"pm2_5": 18,
-			"pm10": 138,
-			"so2": 2,
-			"no2": 14,
-			"co": 0.2,
-			"o3": 110,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "哈尔滨",
-			"province": "黑龙江",
-			"aqi": 118,
-			"pm2_5": 77,
-			"pm10": 156,
-			"so2": 11,
-			"no2": 36,
-			"co": 0.9,
-			"o3": 172,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "玉林",
-			"province": "广西",
-			"aqi": 63,
-			"pm2_5": 28,
-			"pm10": 46,
-			"so2": 26,
-			"no2": 12,
-			"co": 0.7,
-			"o3": 120,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "绥化",
-			"province": "黑龙江",
-			"aqi": 87,
-			"pm2_5": 58,
-			"pm10": 124,
-			"so2": 8,
-			"no2": 14,
-			"co": 0.8,
-			"o3": 156,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "汕头",
-			"province": "广东",
-			"aqi": 29,
-			"pm2_5": 14,
-			"pm10": 27,
-			"so2": 10,
-			"no2": 11,
-			"co": 0.6,
-			"o3": 66,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "漳州",
-			"province": "福建",
-			"aqi": 50,
-			"pm2_5": 19,
-			"pm10": 38,
-			"so2": 6,
-			"no2": 16,
-			"co": 0.7,
-			"o3": 120,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "宿州",
-			"province": "安徽",
-			"aqi": 75,
-			"pm2_5": 50,
-			"pm10": 68,
-			"so2": 10,
-			"no2": 34,
-			"co": 0.5,
-			"o3": 146,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "宜昌",
-			"province": "湖北",
-			"aqi": 68,
-			"pm2_5": 49,
-			"pm10": 76,
-			"so2": 8,
-			"no2": 26,
-			"co": 1,
-			"o3": 141,
-			"primary_pollutant": "细颗粒物(PM2.5)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "榆林",
-			"province": "陕西",
-			"aqi": 109,
-			"pm2_5": 36,
-			"pm10": 91,
-			"so2": 11,
-			"no2": 21,
-			"co": 1.1,
-			"o3": 182,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "南平",
-			"province": "福建",
-			"aqi": 57,
-			"pm2_5": 27,
-			"pm10": 44,
-			"so2": 4,
-			"no2": 14,
-			"co": 0.7,
-			"o3": 118,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "巴中",
-			"province": "四川",
-			"aqi": 85,
-			"pm2_5": 48,
-			"pm10": 80,
-			"so2": 6,
-			"no2": 28,
-			"co": 0.9,
-			"o3": 151,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "宁德",
-			"province": "福建",
-			"aqi": 100,
-			"pm2_5": 28,
-			"pm10": 64,
-			"so2": 10,
-			"no2": 20,
-			"co": 1,
-			"o3": 198,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "成都",
-			"province": "四川",
-			"aqi": 189,
-			"pm2_5": 66,
-			"pm10": 152,
-			"so2": 14,
-			"no2": 71,
-			"co": 1,
-			"o3": 289,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "清远",
-			"province": "广东",
-			"aqi": 78,
-			"pm2_5": 19,
-			"pm10": 42,
-			"so2": 11,
-			"no2": 31,
-			"co": 0.6,
-			"o3": 160,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "商丘",
-			"province": "河南",
-			"aqi": 64,
-			"pm2_5": 36,
-			"pm10": 78,
-			"so2": 9,
-			"no2": 14,
-			"co": 0.8,
-			"o3": 109,
-			"primary_pollutant": "PM10"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "苏州",
-			"province": "江苏",
-			"aqi": 112,
-			"pm2_5": 47,
-			"pm10": 76,
-			"so2": 8,
-			"no2": 39,
-			"co": 0.7,
-			"o3": 177,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "大连",
-			"province": "辽宁",
-			"aqi": 55,
-			"pm2_5": 27,
-			"pm10": 44,
-			"so2": 9,
-			"no2": 17,
-			"co": 0.7,
-			"o3": 113,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "濮阳",
-			"province": "河南",
-			"aqi": 61,
-			"pm2_5": 33,
-			"pm10": 58,
-			"so2": 10,
-			"no2": 14,
-			"co": 1,
-			"o3": 139,
-			"primary_pollutant": "O3"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "茂名",
-			"province": "广东",
-			"aqi": 27,
-			"pm2_5": 9,
-			"pm10": 22,
-			"so2": 5,
-			"no2": 5,
-			"co": 0.5,
-			"o3": 59,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "南通",
-			"province": "江苏",
-			"aqi": 171,
-			"pm2_5": 52,
-			"pm10": 83,
-			"so2": 21,
-			"no2": 43,
-			"co": 0.6,
-			"o3": 278,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "吉安",
-			"province": "江西",
-			"aqi": 70,
-			"pm2_5": 33,
-			"pm10": 53,
-			"so2": 15,
-			"no2": 8,
-			"co": 0.5,
-			"o3": 130,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "赣州",
-			"province": "江西",
-			"aqi": 63,
-			"pm2_5": 34,
-			"pm10": 52,
-			"so2": 17,
-			"no2": 11,
-			"co": 1.2,
-			"o3": 129,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "怀化",
-			"province": "湖南",
-			"aqi": 65,
-			"pm2_5": 19,
-			"pm10": 59,
-			"so2": 4,
-			"no2": 8,
-			"co": 1.1,
-			"o3": 123,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "丽江",
-			"province": "云南",
-			"aqi": 48,
-			"pm2_5": 8,
-			"pm10": 35,
-			"so2": 13,
-			"no2": 8,
-			"co": 0.6,
-			"o3": 100,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "运城",
-			"province": "山西",
-			"aqi": 103,
-			"pm2_5": 34,
-			"pm10": 60,
-			"so2": 10,
-			"no2": 14,
-			"co": 0.7,
-			"o3": 170,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "辽源",
-			"province": "吉林",
-			"aqi": 95,
-			"pm2_5": 33,
-			"pm10": 53,
-			"so2": 8,
-			"no2": 18,
-			"co": 0.7,
-			"o3": 169,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "平顶山",
-			"province": "河南",
-			"aqi": 75,
-			"pm2_5": 55,
-			"pm10": 83,
-			"so2": 10,
-			"no2": 24,
-			"co": 0.9,
-			"o3": 134,
-			"primary_pollutant": "PM2.5"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "黄冈",
-			"province": "湖北",
-			"aqi": 61,
-			"pm2_5": 34,
-			"pm10": 72,
-			"so2": 17,
-			"no2": 28,
-			"co": 1,
-			"o3": 112,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "萍乡",
-			"province": "江西",
-			"aqi": 45,
-			"pm2_5": 22,
-			"pm10": 44,
-			"so2": 12,
-			"no2": 22,
-			"co": 0.8,
-			"o3": 99,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "嘉峪关",
-			"province": "甘肃",
-			"aqi": 83,
-			"pm2_5": 28,
-			"pm10": 115,
-			"so2": 36,
-			"no2": 23,
-			"co": 0.9,
-			"o3": 120,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "安顺",
-			"province": "贵州",
-			"aqi": 71,
-			"pm2_5": 25,
-			"pm10": 43,
-			"so2": 4,
-			"no2": 7,
-			"co": 0.5,
-			"o3": 132,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "通化",
-			"province": "吉林",
-			"aqi": 82,
-			"pm2_5": 35,
-			"pm10": 80,
-			"so2": 6,
-			"no2": 18,
-			"co": 0.8,
-			"o3": 146,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "防城港",
-			"province": "广西",
-			"aqi": 29,
-			"pm2_5": 13,
-			"pm10": 29,
-			"so2": 10,
-			"no2": 10,
-			"co": 0.7,
-			"o3": 53,
-			"primary_pollutant": "—"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "眉山",
-			"province": "四川",
-			"aqi": 176,
-			"pm2_5": 50,
-			"pm10": 99,
-			"so2": 19,
-			"no2": 74,
-			"co": 0.9,
-			"o3": 265,
-			"primary_pollutant": "臭氧8小时(O3_8h)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "邯郸",
-			"province": "河北",
-			"aqi": 67,
-			"pm2_5": 44,
-			"pm10": 83,
-			"so2": 10,
-			"no2": 21,
-			"co": 1,
-			"o3": 102,
-			"primary_pollutant": "颗粒物(PM10)"
-		}
-	},
-	{
-		"data": {
-			"time": "2024-05-13",
-			"cityname": "洛阳",
-			"province": "河南",
-			"aqi": 81,
-			"pm2_5": 39,
-			"pm10": 62,
-			"so2": 9,
-			"no2": 27,
-			"co": 1.1,
-			"o3": 167,
-			"primary_pollutant": "O3"
-		}
-	}
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4fdd\u5b9a",
+            "province": "\u6cb3\u5317",
+            "aqi": 166.0,
+            "pm2_5": 61.0,
+            "pm10": 103.0,
+            "so2": 42.0,
+            "no2": 34.0,
+            "co": 0.9,
+            "o3": 148.0,
+            "primary_pollutant": "\u7ec6\u9897\u7c92\u7269(PM2.5)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u978d\u5c71",
+            "province": "\u8fbd\u5b81",
+            "aqi": 144.0,
+            "pm2_5": 25.0,
+            "pm10": 46.0,
+            "so2": 6.0,
+            "no2": 12.0,
+            "co": 0.8,
+            "o3": 134.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9ed1\u6cb3",
+            "province": "\u9ed1\u9f99\u6c5f",
+            "aqi": 96.0,
+            "pm2_5": 16.0,
+            "pm10": 26.0,
+            "so2": 6.0,
+            "no2": 10.0,
+            "co": 0.5,
+            "o3": 104.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e2d\u5c71",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 76.0,
+            "pm2_5": 12.0,
+            "pm10": 23.0,
+            "so2": 6.0,
+            "no2": 8.0,
+            "co": 0.6,
+            "o3": 84.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u7389\u6eaa",
+            "province": "\u4e91\u5357",
+            "aqi": 120.0,
+            "pm2_5": 21.0,
+            "pm10": 57.0,
+            "so2": 11.0,
+            "no2": 20.0,
+            "co": 0.9,
+            "o3": 117.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u664b\u4e2d",
+            "province": "\u5c71\u897f",
+            "aqi": 236.0,
+            "pm2_5": 89.0,
+            "pm10": 148.0,
+            "so2": 10.0,
+            "no2": 25.0,
+            "co": 1.2,
+            "o3": 142.0,
+            "primary_pollutant": "\u7ec6\u9897\u7c92\u7269(PM2.5)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9547\u6c5f",
+            "province": "\u6c5f\u82cf",
+            "aqi": 152.0,
+            "pm2_5": 46.0,
+            "pm10": 81.0,
+            "so2": 6.0,
+            "no2": 25.0,
+            "co": 0.8,
+            "o3": 169.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8bb8\u660c",
+            "province": "\u6cb3\u5357",
+            "aqi": 130.0,
+            "pm2_5": 31.0,
+            "pm10": 70.0,
+            "so2": 7.0,
+            "no2": 22.0,
+            "co": 0.9,
+            "o3": 131.0,
+            "primary_pollutant": "O3"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6dc4\u535a",
+            "province": "\u5c71\u4e1c",
+            "aqi": 132.0,
+            "pm2_5": 41.0,
+            "pm10": 81.0,
+            "so2": 14.0,
+            "no2": 29.0,
+            "co": 1.4,
+            "o3": 141.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u840d\u4e61",
+            "province": "\u6c5f\u897f",
+            "aqi": 90.0,
+            "pm2_5": 22.0,
+            "pm10": 44.0,
+            "so2": 12.0,
+            "no2": 22.0,
+            "co": 0.8,
+            "o3": 99.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u81ea\u8d21",
+            "province": "\u56db\u5ddd",
+            "aqi": 354.0,
+            "pm2_5": 64.0,
+            "pm10": 111.0,
+            "so2": 18.0,
+            "no2": 46.0,
+            "co": 1.1,
+            "o3": 276.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4fe1\u9633",
+            "province": "\u6cb3\u5357",
+            "aqi": 148.0,
+            "pm2_5": 28.0,
+            "pm10": 54.0,
+            "so2": 8.0,
+            "no2": 9.0,
+            "co": 0.5,
+            "o3": 132.0,
+            "primary_pollutant": "O3"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6e05\u8fdc",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 156.0,
+            "pm2_5": 19.0,
+            "pm10": 42.0,
+            "so2": 11.0,
+            "no2": 31.0,
+            "co": 0.6,
+            "o3": 160.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5927\u5e86",
+            "province": "\u9ed1\u9f99\u6c5f",
+            "aqi": 196.0,
+            "pm2_5": 39.0,
+            "pm10": 86.0,
+            "so2": 14.0,
+            "no2": 19.0,
+            "co": 0.6,
+            "o3": 175.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u901a\u5316",
+            "province": "\u5409\u6797",
+            "aqi": 164.0,
+            "pm2_5": 35.0,
+            "pm10": 80.0,
+            "so2": 6.0,
+            "no2": 18.0,
+            "co": 0.8,
+            "o3": 146.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u66f2\u9756",
+            "province": "\u4e91\u5357",
+            "aqi": 134.0,
+            "pm2_5": 22.0,
+            "pm10": 44.0,
+            "so2": 11.0,
+            "no2": 10.0,
+            "co": 0.6,
+            "o3": 126.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6606\u660e",
+            "province": "\u4e91\u5357",
+            "aqi": 116.0,
+            "pm2_5": 24.0,
+            "pm10": 53.0,
+            "so2": 14.0,
+            "no2": 29.0,
+            "co": 0.7,
+            "o3": 113.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5f00\u5c01",
+            "province": "\u6cb3\u5357",
+            "aqi": 132.0,
+            "pm2_5": 33.0,
+            "pm10": 76.0,
+            "so2": 7.0,
+            "no2": 14.0,
+            "co": 0.8,
+            "o3": 128.0,
+            "primary_pollutant": "O3"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5408\u80a5",
+            "province": "\u5b89\u5fbd",
+            "aqi": 158.0,
+            "pm2_5": 35.0,
+            "pm10": 70.0,
+            "so2": 6.0,
+            "no2": 20.0,
+            "co": 0.6,
+            "o3": 140.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9e64\u58c1",
+            "province": "\u6cb3\u5357",
+            "aqi": 134.0,
+            "pm2_5": 33.0,
+            "pm10": 69.0,
+            "so2": 16.0,
+            "no2": 22.0,
+            "co": 1.0,
+            "o3": 130.0,
+            "primary_pollutant": "O3"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u516d\u5b89",
+            "province": "\u5b89\u5fbd",
+            "aqi": 142.0,
+            "pm2_5": 38.0,
+            "pm10": 62.0,
+            "so2": 6.0,
+            "no2": 20.0,
+            "co": 0.6,
+            "o3": 131.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u821f\u5c71",
+            "province": "\u6d59\u6c5f",
+            "aqi": 66.0,
+            "pm2_5": 19.0,
+            "pm10": 32.0,
+            "so2": 8.0,
+            "no2": 17.0,
+            "co": 0.7,
+            "o3": 75.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6d4e\u5357",
+            "province": "\u5c71\u4e1c",
+            "aqi": 134.0,
+            "pm2_5": 29.0,
+            "pm10": 66.0,
+            "so2": 14.0,
+            "no2": 30.0,
+            "co": 0.8,
+            "o3": 150.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9e64\u5c97",
+            "province": "\u9ed1\u9f99\u6c5f",
+            "aqi": 166.0,
+            "pm2_5": 26.0,
+            "pm10": 64.0,
+            "so2": 9.0,
+            "no2": 14.0,
+            "co": 0.6,
+            "o3": 145.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u65b0\u4f59",
+            "province": "\u6c5f\u897f",
+            "aqi": 116.0,
+            "pm2_5": 34.0,
+            "pm10": 65.0,
+            "so2": 46.0,
+            "no2": 29.0,
+            "co": 1.5,
+            "o3": 107.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u65b0\u4e61",
+            "province": "\u6cb3\u5357",
+            "aqi": 170.0,
+            "pm2_5": 32.0,
+            "pm10": 56.0,
+            "so2": 18.0,
+            "no2": 24.0,
+            "co": 1.2,
+            "o3": 178.0,
+            "primary_pollutant": "O3"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e34\u6ca7",
+            "province": "\u4e91\u5357",
+            "aqi": 152.0,
+            "pm2_5": 24.0,
+            "pm10": 37.0,
+            "so2": 10.0,
+            "no2": 14.0,
+            "co": 0.8,
+            "o3": 136.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5b89\u5e86",
+            "province": "\u5b89\u5fbd",
+            "aqi": 118.0,
+            "pm2_5": 27.0,
+            "pm10": 46.0,
+            "so2": 9.0,
+            "no2": 21.0,
+            "co": 0.4,
+            "o3": 122.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6b66\u5a01",
+            "province": "\u7518\u8083",
+            "aqi": 0.0,
+            "pm2_5": 0.0,
+            "pm10": 0.0,
+            "so2": 4.0,
+            "no2": 14.0,
+            "co": 0.4,
+            "o3": 136.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e0a\u9976",
+            "province": "\u6c5f\u897f",
+            "aqi": 130.0,
+            "pm2_5": 30.0,
+            "pm10": 54.0,
+            "so2": 6.0,
+            "no2": 14.0,
+            "co": 1.1,
+            "o3": 120.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u626c\u5dde",
+            "province": "\u6c5f\u82cf",
+            "aqi": 148.0,
+            "pm2_5": 43.0,
+            "pm10": 97.0,
+            "so2": 14.0,
+            "no2": 36.0,
+            "co": 0.9,
+            "o3": 136.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6f4d\u574a",
+            "province": "\u5c71\u4e1c",
+            "aqi": 160.0,
+            "pm2_5": 54.0,
+            "pm10": 83.0,
+            "so2": 8.0,
+            "no2": 29.0,
+            "co": 0.6,
+            "o3": 168.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u514b\u62c9\u739b\u4f9d",
+            "province": "\u65b0\u7586",
+            "aqi": 148.0,
+            "pm2_5": 14.0,
+            "pm10": 32.0,
+            "so2": 6.0,
+            "no2": 11.0,
+            "co": 0.6,
+            "o3": 135.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u901a\u8fbd",
+            "province": "\u5185\u8499\u53e4",
+            "aqi": 234.0,
+            "pm2_5": 74.0,
+            "pm10": 181.0,
+            "so2": 10.0,
+            "no2": 16.0,
+            "co": 0.7,
+            "o3": 194.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6f2f\u6cb3",
+            "province": "\u6cb3\u5357",
+            "aqi": 138.0,
+            "pm2_5": 32.0,
+            "pm10": 62.0,
+            "so2": 8.0,
+            "no2": 14.0,
+            "co": 0.8,
+            "o3": 132.0,
+            "primary_pollutant": "O3"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9e70\u6f6d",
+            "province": "\u6c5f\u897f",
+            "aqi": 138.0,
+            "pm2_5": 27.0,
+            "pm10": 44.0,
+            "so2": 15.0,
+            "no2": 17.0,
+            "co": 0.6,
+            "o3": 136.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5a04\u5e95",
+            "province": "\u6e56\u5357",
+            "aqi": 84.0,
+            "pm2_5": 21.0,
+            "pm10": 36.0,
+            "so2": 19.0,
+            "no2": 12.0,
+            "co": 1.2,
+            "o3": 88.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5341\u5830",
+            "province": "\u6e56\u5317",
+            "aqi": 156.0,
+            "pm2_5": 41.0,
+            "pm10": 70.0,
+            "so2": 15.0,
+            "no2": 18.0,
+            "co": 0.9,
+            "o3": 159.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u7ee5\u5316",
+            "province": "\u9ed1\u9f99\u6c5f",
+            "aqi": 174.0,
+            "pm2_5": 58.0,
+            "pm10": 124.0,
+            "so2": 8.0,
+            "no2": 14.0,
+            "co": 0.8,
+            "o3": 156.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9a7b\u9a6c\u5e97",
+            "province": "\u6cb3\u5357",
+            "aqi": 134.0,
+            "pm2_5": 43.0,
+            "pm10": 66.0,
+            "so2": 11.0,
+            "no2": 17.0,
+            "co": 0.6,
+            "o3": 124.0,
+            "primary_pollutant": "O3"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e4c\u5170\u5bdf\u5e03",
+            "province": "\u5185\u8499\u53e4",
+            "aqi": 256.0,
+            "pm2_5": 44.0,
+            "pm10": 98.0,
+            "so2": 30.0,
+            "no2": 22.0,
+            "co": 0.6,
+            "o3": 202.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8d35\u6e2f",
+            "province": "\u5e7f\u897f",
+            "aqi": 74.0,
+            "pm2_5": 17.0,
+            "pm10": 37.0,
+            "so2": 7.0,
+            "no2": 14.0,
+            "co": 0.5,
+            "o3": 76.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6e58\u6f6d",
+            "province": "\u6e56\u5357",
+            "aqi": 88.0,
+            "pm2_5": 21.0,
+            "pm10": 42.0,
+            "so2": 19.0,
+            "no2": 22.0,
+            "co": 0.8,
+            "o3": 102.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9102\u5c14\u591a\u65af",
+            "province": "\u5185\u8499\u53e4",
+            "aqi": 238.0,
+            "pm2_5": 38.0,
+            "pm10": 102.0,
+            "so2": 13.0,
+            "no2": 21.0,
+            "co": 0.8,
+            "o3": 186.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6cf0\u5b89",
+            "province": "\u5c71\u4e1c",
+            "aqi": 162.0,
+            "pm2_5": 34.0,
+            "pm10": 72.0,
+            "so2": 7.0,
+            "no2": 18.0,
+            "co": 0.7,
+            "o3": 149.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5357\u660c",
+            "province": "\u6c5f\u897f",
+            "aqi": 130.0,
+            "pm2_5": 12.0,
+            "pm10": 44.0,
+            "so2": 14.0,
+            "no2": 22.0,
+            "co": 0.9,
+            "o3": 126.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5e38\u5fb7",
+            "province": "\u6e56\u5357",
+            "aqi": 100.0,
+            "pm2_5": 24.0,
+            "pm10": 42.0,
+            "so2": 12.0,
+            "no2": 12.0,
+            "co": 0.9,
+            "o3": 103.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5b89\u987a",
+            "province": "\u8d35\u5dde",
+            "aqi": 142.0,
+            "pm2_5": 25.0,
+            "pm10": 43.0,
+            "so2": 4.0,
+            "no2": 7.0,
+            "co": 0.5,
+            "o3": 132.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6c88\u9633",
+            "province": "\u8fbd\u5b81",
+            "aqi": 168.0,
+            "pm2_5": 33.0,
+            "pm10": 74.0,
+            "so2": 21.0,
+            "no2": 20.0,
+            "co": 1.0,
+            "o3": 156.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6842\u6797",
+            "province": "\u5e7f\u897f",
+            "aqi": 80.0,
+            "pm2_5": 22.0,
+            "pm10": 38.0,
+            "so2": 7.0,
+            "no2": 18.0,
+            "co": 0.9,
+            "o3": 90.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e09\u660e",
+            "province": "\u798f\u5efa",
+            "aqi": 130.0,
+            "pm2_5": 29.0,
+            "pm10": 50.0,
+            "so2": 16.0,
+            "no2": 29.0,
+            "co": 1.3,
+            "o3": 129.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u65e0\u9521",
+            "province": "\u6c5f\u82cf",
+            "aqi": 228.0,
+            "pm2_5": 43.0,
+            "pm10": 74.0,
+            "so2": 11.0,
+            "no2": 29.0,
+            "co": 0.7,
+            "o3": 190.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6e56\u5dde",
+            "province": "\u6d59\u6c5f",
+            "aqi": 150.0,
+            "pm2_5": 34.0,
+            "pm10": 64.0,
+            "so2": 11.0,
+            "no2": 34.0,
+            "co": 1.0,
+            "o3": 145.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u868c\u57e0",
+            "province": "\u5b89\u5fbd",
+            "aqi": 170.0,
+            "pm2_5": 40.0,
+            "pm10": 70.0,
+            "so2": 14.0,
+            "no2": 20.0,
+            "co": 0.6,
+            "o3": 158.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u666e\u6d31",
+            "province": "\u4e91\u5357",
+            "aqi": 154.0,
+            "pm2_5": 26.0,
+            "pm10": 52.0,
+            "so2": 6.0,
+            "no2": 26.0,
+            "co": 0.3,
+            "o3": 140.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9ec4\u5c71",
+            "province": "\u5b89\u5fbd",
+            "aqi": 92.0,
+            "pm2_5": 26.0,
+            "pm10": 46.0,
+            "so2": 13.0,
+            "no2": 14.0,
+            "co": 0.6,
+            "o3": 78.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5609\u5174",
+            "province": "\u6d59\u6c5f",
+            "aqi": 240.0,
+            "pm2_5": 56.0,
+            "pm10": 72.0,
+            "so2": 10.0,
+            "no2": 27.0,
+            "co": 1.2,
+            "o3": 195.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5409\u6797",
+            "province": "\u5409\u6797",
+            "aqi": 178.0,
+            "pm2_5": 46.0,
+            "pm10": 82.0,
+            "so2": 8.0,
+            "no2": 18.0,
+            "co": 1.0,
+            "o3": 161.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6d1b\u9633",
+            "province": "\u6cb3\u5357",
+            "aqi": 162.0,
+            "pm2_5": 39.0,
+            "pm10": 62.0,
+            "so2": 9.0,
+            "no2": 27.0,
+            "co": 1.1,
+            "o3": 167.0,
+            "primary_pollutant": "O3"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5e86\u9633",
+            "province": "\u7518\u8083",
+            "aqi": 168.0,
+            "pm2_5": 34.0,
+            "pm10": 74.0,
+            "so2": 6.0,
+            "no2": 14.0,
+            "co": 0.6,
+            "o3": 149.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u94dc\u9675",
+            "province": "\u5b89\u5fbd",
+            "aqi": 98.0,
+            "pm2_5": 27.0,
+            "pm10": 49.0,
+            "so2": 15.0,
+            "no2": 27.0,
+            "co": 0.6,
+            "o3": 96.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9ec4\u77f3",
+            "province": "\u6e56\u5317",
+            "aqi": 104.0,
+            "pm2_5": 32.0,
+            "pm10": 53.0,
+            "so2": 17.0,
+            "no2": 27.0,
+            "co": 1.0,
+            "o3": 105.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5b81\u5fb7",
+            "province": "\u798f\u5efa",
+            "aqi": 200.0,
+            "pm2_5": 28.0,
+            "pm10": 64.0,
+            "so2": 10.0,
+            "no2": 20.0,
+            "co": 1.0,
+            "o3": 198.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9f50\u9f50\u54c8\u5c14",
+            "province": "\u9ed1\u9f99\u6c5f",
+            "aqi": 160.0,
+            "pm2_5": 30.0,
+            "pm10": 72.0,
+            "so2": 6.0,
+            "no2": 15.0,
+            "co": 0.6,
+            "o3": 151.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e0a\u6d77",
+            "province": "\u4e0a\u6d77",
+            "aqi": 260.0,
+            "pm2_5": 52.0,
+            "pm10": 67.0,
+            "so2": 15.0,
+            "no2": 31.0,
+            "co": 0.7,
+            "o3": 245.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5546\u4e18",
+            "province": "\u6cb3\u5357",
+            "aqi": 128.0,
+            "pm2_5": 36.0,
+            "pm10": 78.0,
+            "so2": 9.0,
+            "no2": 14.0,
+            "co": 0.8,
+            "o3": 109.0,
+            "primary_pollutant": "PM10"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e5d\u6c5f",
+            "province": "\u6c5f\u897f",
+            "aqi": 130.0,
+            "pm2_5": 27.0,
+            "pm10": 57.0,
+            "so2": 15.0,
+            "no2": 13.0,
+            "co": 0.5,
+            "o3": 127.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8861\u6c34",
+            "province": "\u6cb3\u5317",
+            "aqi": 136.0,
+            "pm2_5": 49.0,
+            "pm10": 67.0,
+            "so2": 10.0,
+            "no2": 18.0,
+            "co": 0.7,
+            "o3": 102.0,
+            "primary_pollutant": "\u7ec6\u9897\u7c92\u7269(PM2.5)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6d4e\u5b81",
+            "province": "\u5c71\u4e1c",
+            "aqi": 158.0,
+            "pm2_5": 38.0,
+            "pm10": 97.0,
+            "so2": 22.0,
+            "no2": 18.0,
+            "co": 0.7,
+            "o3": 158.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6ee8\u5dde",
+            "province": "\u5c71\u4e1c",
+            "aqi": 198.0,
+            "pm2_5": 74.0,
+            "pm10": 102.0,
+            "so2": 12.0,
+            "no2": 32.0,
+            "co": 1.8,
+            "o3": 214.0,
+            "primary_pollutant": "\u7ec6\u9897\u7c92\u7269(PM2.5)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6500\u679d\u82b1",
+            "province": "\u56db\u5ddd",
+            "aqi": 148.0,
+            "pm2_5": 25.0,
+            "pm10": 52.0,
+            "so2": 27.0,
+            "no2": 40.0,
+            "co": 1.1,
+            "o3": 134.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u829c\u6e56",
+            "province": "\u5b89\u5fbd",
+            "aqi": 134.0,
+            "pm2_5": 28.0,
+            "pm10": 50.0,
+            "so2": 7.0,
+            "no2": 22.0,
+            "co": 0.9,
+            "o3": 140.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5174\u5b89\u76df",
+            "province": "\u5185\u8499\u53e4",
+            "aqi": 174.0,
+            "pm2_5": 36.0,
+            "pm10": 96.0,
+            "so2": 11.0,
+            "no2": 17.0,
+            "co": 0.9,
+            "o3": 157.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u897f\u5b81",
+            "province": "\u9752\u6d77",
+            "aqi": 214.0,
+            "pm2_5": 51.0,
+            "pm10": 163.0,
+            "so2": 23.0,
+            "no2": 44.0,
+            "co": 1.4,
+            "o3": 135.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5357\u901a",
+            "province": "\u6c5f\u82cf",
+            "aqi": 342.0,
+            "pm2_5": 52.0,
+            "pm10": 83.0,
+            "so2": 21.0,
+            "no2": 43.0,
+            "co": 0.6,
+            "o3": 278.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4eb3\u5dde",
+            "province": "\u5b89\u5fbd",
+            "aqi": 132.0,
+            "pm2_5": 32.0,
+            "pm10": 67.0,
+            "so2": 9.0,
+            "no2": 15.0,
+            "co": 0.7,
+            "o3": 124.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5546\u6d1b",
+            "province": "\u9655\u897f",
+            "aqi": 116.0,
+            "pm2_5": 34.0,
+            "pm10": 61.0,
+            "so2": 10.0,
+            "no2": 22.0,
+            "co": 0.7,
+            "o3": 122.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6c49\u4e2d",
+            "province": "\u9655\u897f",
+            "aqi": 220.0,
+            "pm2_5": 48.0,
+            "pm10": 82.0,
+            "so2": 12.0,
+            "no2": 27.0,
+            "co": 0.9,
+            "o3": 191.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5bbf\u5dde",
+            "province": "\u5b89\u5fbd",
+            "aqi": 150.0,
+            "pm2_5": 50.0,
+            "pm10": 68.0,
+            "so2": 10.0,
+            "no2": 34.0,
+            "co": 0.5,
+            "o3": 146.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6fee\u9633",
+            "province": "\u6cb3\u5357",
+            "aqi": 122.0,
+            "pm2_5": 33.0,
+            "pm10": 58.0,
+            "so2": 10.0,
+            "no2": 14.0,
+            "co": 1.0,
+            "o3": 139.0,
+            "primary_pollutant": "O3"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e50\u5c71",
+            "province": "\u56db\u5ddd",
+            "aqi": 300.0,
+            "pm2_5": 77.0,
+            "pm10": 123.0,
+            "so2": 20.0,
+            "no2": 56.0,
+            "co": 0.9,
+            "o3": 229.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9647\u5357",
+            "province": "\u7518\u8083",
+            "aqi": 160.0,
+            "pm2_5": 39.0,
+            "pm10": 61.0,
+            "so2": 14.0,
+            "no2": 22.0,
+            "co": 0.7,
+            "o3": 142.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u65e5\u5580\u5219",
+            "province": "\u897f\u85cf",
+            "aqi": 168.0,
+            "pm2_5": 18.0,
+            "pm10": 46.0,
+            "so2": 6.0,
+            "no2": 5.0,
+            "co": 0.6,
+            "o3": 146.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6dee\u5b89",
+            "province": "\u6c5f\u82cf",
+            "aqi": 204.0,
+            "pm2_5": 54.0,
+            "pm10": 92.0,
+            "so2": 13.0,
+            "no2": 28.0,
+            "co": 1.1,
+            "o3": 179.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u63ed\u9633",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 84.0,
+            "pm2_5": 22.0,
+            "pm10": 42.0,
+            "so2": 12.0,
+            "no2": 14.0,
+            "co": 0.8,
+            "o3": 104.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u73e0\u6d77",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 60.0,
+            "pm2_5": 11.0,
+            "pm10": 19.0,
+            "so2": 4.0,
+            "no2": 9.0,
+            "co": 0.6,
+            "o3": 69.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5cb3\u9633",
+            "province": "\u6e56\u5357",
+            "aqi": 128.0,
+            "pm2_5": 19.0,
+            "pm10": 39.0,
+            "so2": 10.0,
+            "no2": 12.0,
+            "co": 0.6,
+            "o3": 126.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6c55\u5934",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 58.0,
+            "pm2_5": 14.0,
+            "pm10": 27.0,
+            "so2": 10.0,
+            "no2": 11.0,
+            "co": 0.6,
+            "o3": 66.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u67f3\u5dde",
+            "province": "\u5e7f\u897f",
+            "aqi": 84.0,
+            "pm2_5": 17.0,
+            "pm10": 30.0,
+            "so2": 5.0,
+            "no2": 11.0,
+            "co": 0.5,
+            "o3": 93.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6714\u5dde",
+            "province": "\u5c71\u897f",
+            "aqi": 240.0,
+            "pm2_5": 70.0,
+            "pm10": 168.0,
+            "so2": 23.0,
+            "no2": 31.0,
+            "co": 1.0,
+            "o3": 196.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u671d\u9633",
+            "province": "\u8fbd\u5b81",
+            "aqi": 222.0,
+            "pm2_5": 80.0,
+            "pm10": 114.0,
+            "so2": 16.0,
+            "no2": 17.0,
+            "co": 1.2,
+            "o3": 193.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8d63\u5dde",
+            "province": "\u6c5f\u897f",
+            "aqi": 126.0,
+            "pm2_5": 34.0,
+            "pm10": 52.0,
+            "so2": 17.0,
+            "no2": 11.0,
+            "co": 1.2,
+            "o3": 129.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9e21\u897f",
+            "province": "\u9ed1\u9f99\u6c5f",
+            "aqi": 162.0,
+            "pm2_5": 39.0,
+            "pm10": 111.0,
+            "so2": 3.0,
+            "no2": 23.0,
+            "co": 0.6,
+            "o3": 137.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e3d\u6c34",
+            "province": "\u6d59\u6c5f",
+            "aqi": 120.0,
+            "pm2_5": 34.0,
+            "pm10": 59.0,
+            "so2": 6.0,
+            "no2": 19.0,
+            "co": 0.7,
+            "o3": 138.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5e73\u51c9",
+            "province": "\u7518\u8083",
+            "aqi": 220.0,
+            "pm2_5": 44.0,
+            "pm10": 82.0,
+            "so2": 14.0,
+            "no2": 40.0,
+            "co": 0.6,
+            "o3": 192.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5e7f\u5b89",
+            "province": "\u56db\u5ddd",
+            "aqi": 262.0,
+            "pm2_5": 56.0,
+            "pm10": 94.0,
+            "so2": 16.0,
+            "no2": 40.0,
+            "co": 1.0,
+            "o3": 224.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5f20\u5bb6\u754c",
+            "province": "\u6e56\u5357",
+            "aqi": 108.0,
+            "pm2_5": 26.0,
+            "pm10": 58.0,
+            "so2": 8.0,
+            "no2": 20.0,
+            "co": 0.9,
+            "o3": 114.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6e5b\u6c5f",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 76.0,
+            "pm2_5": 15.0,
+            "pm10": 25.0,
+            "so2": 7.0,
+            "no2": 9.0,
+            "co": 0.6,
+            "o3": 93.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6000\u5316",
+            "province": "\u6e56\u5357",
+            "aqi": 130.0,
+            "pm2_5": 19.0,
+            "pm10": 59.0,
+            "so2": 4.0,
+            "no2": 8.0,
+            "co": 1.1,
+            "o3": 123.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9102\u5dde",
+            "province": "\u6e56\u5317",
+            "aqi": 110.0,
+            "pm2_5": 36.0,
+            "pm10": 60.0,
+            "so2": 10.0,
+            "no2": 26.0,
+            "co": 1.0,
+            "o3": 113.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u94dc\u5ddd",
+            "province": "\u9655\u897f",
+            "aqi": 208.0,
+            "pm2_5": 41.0,
+            "pm10": 87.0,
+            "so2": 15.0,
+            "no2": 33.0,
+            "co": 1.0,
+            "o3": 176.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9ec4\u5188",
+            "province": "\u6e56\u5317",
+            "aqi": 122.0,
+            "pm2_5": 34.0,
+            "pm10": 72.0,
+            "so2": 17.0,
+            "no2": 28.0,
+            "co": 1.0,
+            "o3": 112.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u666f\u5fb7\u9547",
+            "province": "\u6c5f\u897f",
+            "aqi": 146.0,
+            "pm2_5": 26.0,
+            "pm10": 50.0,
+            "so2": 21.0,
+            "no2": 8.0,
+            "co": 0.8,
+            "o3": 138.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6cc9\u5dde",
+            "province": "\u798f\u5efa",
+            "aqi": 74.0,
+            "pm2_5": 14.0,
+            "pm10": 37.0,
+            "so2": 8.0,
+            "no2": 15.0,
+            "co": 0.5,
+            "o3": 87.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5eca\u574a",
+            "province": "\u6cb3\u5317",
+            "aqi": 162.0,
+            "pm2_5": 57.0,
+            "pm10": 104.0,
+            "so2": 16.0,
+            "no2": 38.0,
+            "co": 1.4,
+            "o3": 170.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5b9c\u5bbe",
+            "province": "\u56db\u5ddd",
+            "aqi": 372.0,
+            "pm2_5": 56.0,
+            "pm10": 102.0,
+            "so2": 30.0,
+            "no2": 48.0,
+            "co": 1.1,
+            "o3": 278.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5357\u4eac",
+            "province": "\u6c5f\u82cf",
+            "aqi": 164.0,
+            "pm2_5": 37.0,
+            "pm10": 70.0,
+            "so2": 11.0,
+            "no2": 33.0,
+            "co": 0.7,
+            "o3": 151.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5f90\u5dde",
+            "province": "\u6c5f\u82cf",
+            "aqi": 138.0,
+            "pm2_5": 45.0,
+            "pm10": 80.0,
+            "so2": 14.0,
+            "no2": 24.0,
+            "co": 0.9,
+            "o3": 129.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5d07\u5de6",
+            "province": "\u5e7f\u897f",
+            "aqi": 120.0,
+            "pm2_5": 18.0,
+            "pm10": 40.0,
+            "so2": 8.0,
+            "no2": 12.0,
+            "co": 0.6,
+            "o3": 120.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6797\u829d",
+            "province": "\u897f\u85cf",
+            "aqi": 110.0,
+            "pm2_5": 7.0,
+            "pm10": 25.0,
+            "so2": 4.0,
+            "no2": 6.0,
+            "co": 0.4,
+            "o3": 117.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8fd0\u57ce",
+            "province": "\u5c71\u897f",
+            "aqi": 206.0,
+            "pm2_5": 34.0,
+            "pm10": 60.0,
+            "so2": 10.0,
+            "no2": 14.0,
+            "co": 0.7,
+            "o3": 170.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u94a6\u5dde",
+            "province": "\u5e7f\u897f",
+            "aqi": 58.0,
+            "pm2_5": 12.0,
+            "pm10": 28.0,
+            "so2": 9.0,
+            "no2": 9.0,
+            "co": 0.6,
+            "o3": 62.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6c38\u5dde",
+            "province": "\u6e56\u5357",
+            "aqi": 84.0,
+            "pm2_5": 24.0,
+            "pm10": 42.0,
+            "so2": 9.0,
+            "no2": 14.0,
+            "co": 0.4,
+            "o3": 89.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u897f\u5b89",
+            "province": "\u9655\u897f",
+            "aqi": 238.0,
+            "pm2_5": 37.0,
+            "pm10": 88.0,
+            "so2": 10.0,
+            "no2": 43.0,
+            "co": 0.9,
+            "o3": 234.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8d3a\u5dde",
+            "province": "\u5e7f\u897f",
+            "aqi": 110.0,
+            "pm2_5": 35.0,
+            "pm10": 60.0,
+            "so2": 18.0,
+            "no2": 16.0,
+            "co": 0.7,
+            "o3": 80.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e34\u6c7e",
+            "province": "\u5c71\u897f",
+            "aqi": 184.0,
+            "pm2_5": 50.0,
+            "pm10": 107.0,
+            "so2": 18.0,
+            "no2": 27.0,
+            "co": 0.9,
+            "o3": 187.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8302\u540d",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 54.0,
+            "pm2_5": 9.0,
+            "pm10": 22.0,
+            "so2": 5.0,
+            "no2": 5.0,
+            "co": 0.5,
+            "o3": 59.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6df1\u5733",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 60.0,
+            "pm2_5": 14.0,
+            "pm10": 22.0,
+            "so2": 7.0,
+            "no2": 22.0,
+            "co": 0.4,
+            "o3": 71.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u91d1\u534e",
+            "province": "\u6d59\u6c5f",
+            "aqi": 190.0,
+            "pm2_5": 34.0,
+            "pm10": 54.0,
+            "so2": 9.0,
+            "no2": 26.0,
+            "co": 0.6,
+            "o3": 175.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u54c8\u5c14\u6ee8",
+            "province": "\u9ed1\u9f99\u6c5f",
+            "aqi": 236.0,
+            "pm2_5": 77.0,
+            "pm10": 156.0,
+            "so2": 11.0,
+            "no2": 36.0,
+            "co": 0.9,
+            "o3": 172.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9152\u6cc9",
+            "province": "\u7518\u8083",
+            "aqi": 182.0,
+            "pm2_5": 26.0,
+            "pm10": 131.0,
+            "so2": 6.0,
+            "no2": 8.0,
+            "co": 0.4,
+            "o3": 124.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u662d\u901a",
+            "province": "\u4e91\u5357",
+            "aqi": 134.0,
+            "pm2_5": 9.0,
+            "pm10": 36.0,
+            "so2": 14.0,
+            "no2": 14.0,
+            "co": 0.4,
+            "o3": 126.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u7ecd\u5174",
+            "province": "\u6d59\u6c5f",
+            "aqi": 204.0,
+            "pm2_5": 37.0,
+            "pm10": 52.0,
+            "so2": 4.0,
+            "no2": 10.0,
+            "co": 0.5,
+            "o3": 174.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u629a\u5dde",
+            "province": "\u6c5f\u897f",
+            "aqi": 124.0,
+            "pm2_5": 26.0,
+            "pm10": 40.0,
+            "so2": 8.0,
+            "no2": 12.0,
+            "co": 0.7,
+            "o3": 120.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u83b1\u829c",
+            "province": "\u5c71\u4e1c",
+            "aqi": 152.0,
+            "pm2_5": 45.0,
+            "pm10": 82.0,
+            "so2": 15.0,
+            "no2": 23.0,
+            "co": 1.1,
+            "o3": 145.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6cb3\u6c60",
+            "province": "\u5e7f\u897f",
+            "aqi": 98.0,
+            "pm2_5": 26.0,
+            "pm10": 48.0,
+            "so2": 6.0,
+            "no2": 22.0,
+            "co": 1.0,
+            "o3": 105.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u660c\u90fd",
+            "province": "\u897f\u85cf",
+            "aqi": 154.0,
+            "pm2_5": 20.0,
+            "pm10": 58.0,
+            "so2": 6.0,
+            "no2": 20.0,
+            "co": 0.6,
+            "o3": 142.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u627f\u5fb7",
+            "province": "\u6cb3\u5317",
+            "aqi": 222.0,
+            "pm2_5": 48.0,
+            "pm10": 119.0,
+            "so2": 11.0,
+            "no2": 26.0,
+            "co": 1.1,
+            "o3": 188.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5ffb\u5dde",
+            "province": "\u5c71\u897f",
+            "aqi": 296.0,
+            "pm2_5": 113.0,
+            "pm10": 176.0,
+            "so2": 39.0,
+            "no2": 42.0,
+            "co": 1.3,
+            "o3": 209.0,
+            "primary_pollutant": "\u7ec6\u9897\u7c92\u7269(PM2.5)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6c5f\u95e8",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 70.0,
+            "pm2_5": 14.0,
+            "pm10": 27.0,
+            "so2": 7.0,
+            "no2": 13.0,
+            "co": 0.5,
+            "o3": 75.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9a6c\u978d\u5c71",
+            "province": "\u5b89\u5fbd",
+            "aqi": 174.0,
+            "pm2_5": 36.0,
+            "pm10": 74.0,
+            "so2": 7.0,
+            "no2": 21.0,
+            "co": 0.6,
+            "o3": 166.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u963f\u62c9\u5584\u76df",
+            "province": "\u5185\u8499\u53e4",
+            "aqi": 194.0,
+            "pm2_5": 59.0,
+            "pm10": 143.0,
+            "so2": 8.0,
+            "no2": 8.0,
+            "co": 0.5,
+            "o3": 148.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8346\u95e8",
+            "province": "\u6e56\u5317",
+            "aqi": 130.0,
+            "pm2_5": 28.0,
+            "pm10": 60.0,
+            "so2": 10.0,
+            "no2": 18.0,
+            "co": 0.8,
+            "o3": 131.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u77f3\u5634\u5c71",
+            "province": "\u5b81\u590f",
+            "aqi": 0.0,
+            "pm2_5": 0.0,
+            "pm10": 0.0,
+            "so2": 32.0,
+            "no2": 28.0,
+            "co": 0.9,
+            "o3": 224.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4f5b\u5c71",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 108.0,
+            "pm2_5": 16.0,
+            "pm10": 30.0,
+            "so2": 8.0,
+            "no2": 16.0,
+            "co": 0.6,
+            "o3": 120.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8d35\u9633",
+            "province": "\u8d35\u5dde",
+            "aqi": 116.0,
+            "pm2_5": 24.0,
+            "pm10": 54.0,
+            "so2": 6.0,
+            "no2": 16.0,
+            "co": 0.5,
+            "o3": 116.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6ec1\u5dde",
+            "province": "\u5b89\u5fbd",
+            "aqi": 184.0,
+            "pm2_5": 42.0,
+            "pm10": 84.0,
+            "so2": 13.0,
+            "no2": 26.0,
+            "co": 0.8,
+            "o3": 158.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4f0a\u6625",
+            "province": "\u9ed1\u9f99\u6c5f",
+            "aqi": 120.0,
+            "pm2_5": 19.0,
+            "pm10": 36.0,
+            "so2": 4.0,
+            "no2": 11.0,
+            "co": 0.4,
+            "o3": 118.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u62c9\u8428",
+            "province": "\u897f\u85cf",
+            "aqi": 214.0,
+            "pm2_5": 35.0,
+            "pm10": 62.0,
+            "so2": 9.0,
+            "no2": 16.0,
+            "co": 0.4,
+            "o3": 163.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u76ca\u9633",
+            "province": "\u6e56\u5357",
+            "aqi": 110.0,
+            "pm2_5": 14.0,
+            "pm10": 33.0,
+            "so2": 8.0,
+            "no2": 11.0,
+            "co": 0.7,
+            "o3": 110.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u90a2\u53f0",
+            "province": "\u6cb3\u5317",
+            "aqi": 130.0,
+            "pm2_5": 37.0,
+            "pm10": 81.0,
+            "so2": 19.0,
+            "no2": 41.0,
+            "co": 1.2,
+            "o3": 110.0,
+            "primary_pollutant": "PM10"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5409\u5b89",
+            "province": "\u6c5f\u897f",
+            "aqi": 140.0,
+            "pm2_5": 33.0,
+            "pm10": 53.0,
+            "so2": 15.0,
+            "no2": 8.0,
+            "co": 0.5,
+            "o3": 130.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u961c\u65b0",
+            "province": "\u8fbd\u5b81",
+            "aqi": 206.0,
+            "pm2_5": 48.0,
+            "pm10": 110.0,
+            "so2": 14.0,
+            "no2": 14.0,
+            "co": 0.8,
+            "o3": 183.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u7126\u4f5c",
+            "province": "\u6cb3\u5357",
+            "aqi": 160.0,
+            "pm2_5": 45.0,
+            "pm10": 71.0,
+            "so2": 8.0,
+            "no2": 19.0,
+            "co": 1.0,
+            "o3": 159.0,
+            "primary_pollutant": "O3"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5ba3\u57ce",
+            "province": "\u5b89\u5fbd",
+            "aqi": 94.0,
+            "pm2_5": 26.0,
+            "pm10": 47.0,
+            "so2": 8.0,
+            "no2": 22.0,
+            "co": 0.5,
+            "o3": 91.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6bd5\u8282",
+            "province": "\u8d35\u5dde",
+            "aqi": 184.0,
+            "pm2_5": 34.0,
+            "pm10": 86.0,
+            "so2": 20.0,
+            "no2": 32.0,
+            "co": 1.0,
+            "o3": 157.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5434\u5fe0",
+            "province": "\u5b81\u590f",
+            "aqi": 0.0,
+            "pm2_5": 0.0,
+            "pm10": 0.0,
+            "so2": 14.0,
+            "no2": 30.0,
+            "co": 0.4,
+            "o3": 142.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9752\u5c9b",
+            "province": "\u5c71\u4e1c",
+            "aqi": 110.0,
+            "pm2_5": 27.0,
+            "pm10": 44.0,
+            "so2": 4.0,
+            "no2": 18.0,
+            "co": 0.4,
+            "o3": 136.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6c55\u5c3e",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 58.0,
+            "pm2_5": 15.0,
+            "pm10": 21.0,
+            "so2": 8.0,
+            "no2": 7.0,
+            "co": 0.7,
+            "o3": 68.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u90d1\u5dde",
+            "province": "\u6cb3\u5357",
+            "aqi": 170.0,
+            "pm2_5": 39.0,
+            "pm10": 82.0,
+            "so2": 8.0,
+            "no2": 37.0,
+            "co": 1.0,
+            "o3": 168.0,
+            "primary_pollutant": "O3"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6885\u5dde",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 92.0,
+            "pm2_5": 24.0,
+            "pm10": 43.0,
+            "so2": 6.0,
+            "no2": 18.0,
+            "co": 0.7,
+            "o3": 98.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u804a\u57ce",
+            "province": "\u5c71\u4e1c",
+            "aqi": 120.0,
+            "pm2_5": 38.0,
+            "pm10": 69.0,
+            "so2": 7.0,
+            "no2": 25.0,
+            "co": 1.1,
+            "o3": 107.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8fbd\u9633",
+            "province": "\u8fbd\u5b81",
+            "aqi": 152.0,
+            "pm2_5": 20.0,
+            "pm10": 38.0,
+            "so2": 15.0,
+            "no2": 8.0,
+            "co": 0.7,
+            "o3": 146.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u70df\u53f0",
+            "province": "\u5c71\u4e1c",
+            "aqi": 116.0,
+            "pm2_5": 26.0,
+            "pm10": 49.0,
+            "so2": 7.0,
+            "no2": 15.0,
+            "co": 0.5,
+            "o3": 147.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u7389\u6797",
+            "province": "\u5e7f\u897f",
+            "aqi": 126.0,
+            "pm2_5": 28.0,
+            "pm10": 46.0,
+            "so2": 26.0,
+            "no2": 12.0,
+            "co": 0.7,
+            "o3": 120.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e39\u4e1c",
+            "province": "\u8fbd\u5b81",
+            "aqi": 122.0,
+            "pm2_5": 31.0,
+            "pm10": 46.0,
+            "so2": 12.0,
+            "no2": 18.0,
+            "co": 0.8,
+            "o3": 135.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5317\u4eac",
+            "province": "\u5317\u4eac",
+            "aqi": 180.0,
+            "pm2_5": 67.0,
+            "pm10": 103.0,
+            "so2": 5.0,
+            "no2": 44.0,
+            "co": 1.1,
+            "o3": 180.0,
+            "primary_pollutant": "\u7ec6\u9897\u7c92\u7269(PM2.5)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u91cd\u5e86",
+            "province": "\u91cd\u5e86",
+            "aqi": 278.0,
+            "pm2_5": 34.0,
+            "pm10": 75.0,
+            "so2": 13.0,
+            "no2": 64.0,
+            "co": 1.0,
+            "o3": 230.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u77f3\u5bb6\u5e84",
+            "province": "\u6cb3\u5317",
+            "aqi": 208.0,
+            "pm2_5": 77.0,
+            "pm10": 157.0,
+            "so2": 23.0,
+            "no2": 42.0,
+            "co": 1.0,
+            "o3": 135.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u54b8\u9633",
+            "province": "\u9655\u897f",
+            "aqi": 300.0,
+            "pm2_5": 41.0,
+            "pm10": 113.0,
+            "so2": 16.0,
+            "no2": 50.0,
+            "co": 0.9,
+            "o3": 255.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6ca7\u5dde",
+            "province": "\u6cb3\u5317",
+            "aqi": 128.0,
+            "pm2_5": 42.0,
+            "pm10": 78.0,
+            "so2": 25.0,
+            "no2": 34.0,
+            "co": 0.9,
+            "o3": 140.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u83cf\u6cfd",
+            "province": "\u5c71\u4e1c",
+            "aqi": 150.0,
+            "pm2_5": 26.0,
+            "pm10": 80.0,
+            "so2": 9.0,
+            "no2": 22.0,
+            "co": 1.1,
+            "o3": 135.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5b9c\u660c",
+            "province": "\u6e56\u5317",
+            "aqi": 136.0,
+            "pm2_5": 49.0,
+            "pm10": 76.0,
+            "so2": 8.0,
+            "no2": 26.0,
+            "co": 1.0,
+            "o3": 141.0,
+            "primary_pollutant": "\u7ec6\u9897\u7c92\u7269(PM2.5)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u90f4\u5dde",
+            "province": "\u6e56\u5357",
+            "aqi": 92.0,
+            "pm2_5": 14.0,
+            "pm10": 46.0,
+            "so2": 14.0,
+            "no2": 13.0,
+            "co": 1.2,
+            "o3": 106.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5e38\u5dde",
+            "province": "\u6c5f\u82cf",
+            "aqi": 240.0,
+            "pm2_5": 45.0,
+            "pm10": 65.0,
+            "so2": 16.0,
+            "no2": 38.0,
+            "co": 0.9,
+            "o3": 205.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u76d0\u57ce",
+            "province": "\u6c5f\u82cf",
+            "aqi": 230.0,
+            "pm2_5": 48.0,
+            "pm10": 80.0,
+            "so2": 11.0,
+            "no2": 23.0,
+            "co": 0.9,
+            "o3": 197.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u682a\u6d32",
+            "province": "\u6e56\u5357",
+            "aqi": 96.0,
+            "pm2_5": 19.0,
+            "pm10": 37.0,
+            "so2": 16.0,
+            "no2": 16.0,
+            "co": 0.4,
+            "o3": 106.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5e73\u9876\u5c71",
+            "province": "\u6cb3\u5357",
+            "aqi": 150.0,
+            "pm2_5": 55.0,
+            "pm10": 83.0,
+            "so2": 10.0,
+            "no2": 24.0,
+            "co": 0.9,
+            "o3": 134.0,
+            "primary_pollutant": "PM2.5"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6cf8\u5dde",
+            "province": "\u56db\u5ddd",
+            "aqi": 302.0,
+            "pm2_5": 45.0,
+            "pm10": 84.0,
+            "so2": 30.0,
+            "no2": 50.0,
+            "co": 0.5,
+            "o3": 233.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5927\u540c",
+            "province": "\u5c71\u897f",
+            "aqi": 252.0,
+            "pm2_5": 68.0,
+            "pm10": 100.0,
+            "so2": 23.0,
+            "no2": 36.0,
+            "co": 1.2,
+            "o3": 212.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8fbd\u6e90",
+            "province": "\u5409\u6797",
+            "aqi": 190.0,
+            "pm2_5": 33.0,
+            "pm10": 53.0,
+            "so2": 8.0,
+            "no2": 18.0,
+            "co": 0.7,
+            "o3": 169.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u91d1\u660c",
+            "province": "\u7518\u8083",
+            "aqi": 148.0,
+            "pm2_5": 17.0,
+            "pm10": 82.0,
+            "so2": 3.0,
+            "no2": 4.0,
+            "co": 0.2,
+            "o3": 130.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e4c\u9c81\u6728\u9f50",
+            "province": "\u65b0\u7586",
+            "aqi": 104.0,
+            "pm2_5": 36.0,
+            "pm10": 34.0,
+            "so2": 8.0,
+            "no2": 28.0,
+            "co": 0.8,
+            "o3": 115.0,
+            "primary_pollutant": "\u7ec6\u9897\u7c92\u7269(PM2.5)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9633\u6cc9",
+            "province": "\u5c71\u897f",
+            "aqi": 290.0,
+            "pm2_5": 111.0,
+            "pm10": 195.0,
+            "so2": 21.0,
+            "no2": 37.0,
+            "co": 1.8,
+            "o3": 187.0,
+            "primary_pollutant": "\u7ec6\u9897\u7c92\u7269(PM2.5)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5170\u5dde",
+            "province": "\u7518\u8083",
+            "aqi": 190.0,
+            "pm2_5": 49.0,
+            "pm10": 140.0,
+            "so2": 12.0,
+            "no2": 48.0,
+            "co": 0.9,
+            "o3": 143.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5927\u8fde",
+            "province": "\u8fbd\u5b81",
+            "aqi": 110.0,
+            "pm2_5": 27.0,
+            "pm10": 44.0,
+            "so2": 9.0,
+            "no2": 17.0,
+            "co": 0.7,
+            "o3": 113.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8425\u53e3",
+            "province": "\u8fbd\u5b81",
+            "aqi": 158.0,
+            "pm2_5": 28.0,
+            "pm10": 56.0,
+            "so2": 6.0,
+            "no2": 13.0,
+            "co": 0.6,
+            "o3": 145.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u677e\u539f",
+            "province": "\u5409\u6797",
+            "aqi": 0.0,
+            "pm2_5": 0.0,
+            "pm10": 0.0,
+            "so2": 10.0,
+            "no2": 16.0,
+            "co": 0.8,
+            "o3": 236.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5b81\u6ce2",
+            "province": "\u6d59\u6c5f",
+            "aqi": 140.0,
+            "pm2_5": 34.0,
+            "pm10": 47.0,
+            "so2": 7.0,
+            "no2": 16.0,
+            "co": 0.7,
+            "o3": 138.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6765\u5bbe",
+            "province": "\u5e7f\u897f",
+            "aqi": 82.0,
+            "pm2_5": 18.0,
+            "pm10": 38.0,
+            "so2": 10.0,
+            "no2": 9.0,
+            "co": 0.5,
+            "o3": 92.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9f99\u5ca9",
+            "province": "\u798f\u5efa",
+            "aqi": 94.0,
+            "pm2_5": 25.0,
+            "pm10": 46.0,
+            "so2": 5.0,
+            "no2": 14.0,
+            "co": 0.7,
+            "o3": 97.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e94\u5bb6\u6e20",
+            "province": "\u65b0\u7586",
+            "aqi": 0.0,
+            "pm2_5": 16.0,
+            "pm10": 22.0,
+            "so2": 9.0,
+            "no2": 12.0,
+            "co": 0.0,
+            "o3": 119.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4f73\u6728\u65af",
+            "province": "\u9ed1\u9f99\u6c5f",
+            "aqi": 164.0,
+            "pm2_5": 31.0,
+            "pm10": 60.0,
+            "so2": 5.0,
+            "no2": 24.0,
+            "co": 0.6,
+            "o3": 153.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u7ef5\u9633",
+            "province": "\u56db\u5ddd",
+            "aqi": 300.0,
+            "pm2_5": 65.0,
+            "pm10": 110.0,
+            "so2": 8.0,
+            "no2": 44.0,
+            "co": 0.8,
+            "o3": 234.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6b66\u6c49",
+            "province": "\u6e56\u5317",
+            "aqi": 108.0,
+            "pm2_5": 25.0,
+            "pm10": 58.0,
+            "so2": 5.0,
+            "no2": 29.0,
+            "co": 0.6,
+            "o3": 111.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u54b8\u5b81",
+            "province": "\u6e56\u5317",
+            "aqi": 104.0,
+            "pm2_5": 20.0,
+            "pm10": 33.0,
+            "so2": 2.0,
+            "no2": 11.0,
+            "co": 0.9,
+            "o3": 110.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u676d\u5dde",
+            "province": "\u6d59\u6c5f",
+            "aqi": 154.0,
+            "pm2_5": 34.0,
+            "pm10": 56.0,
+            "so2": 7.0,
+            "no2": 32.0,
+            "co": 0.8,
+            "o3": 143.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u77f3\u6cb3\u5b50",
+            "province": "\u65b0\u7586",
+            "aqi": 118.0,
+            "pm2_5": 16.0,
+            "pm10": 32.0,
+            "so2": 12.0,
+            "no2": 18.0,
+            "co": 0.8,
+            "o3": 106.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u672c\u6eaa",
+            "province": "\u8fbd\u5b81",
+            "aqi": 124.0,
+            "pm2_5": 22.0,
+            "pm10": 39.0,
+            "so2": 13.0,
+            "no2": 17.0,
+            "co": 1.2,
+            "o3": 128.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5609\u5cea\u5173",
+            "province": "\u7518\u8083",
+            "aqi": 166.0,
+            "pm2_5": 28.0,
+            "pm10": 115.0,
+            "so2": 36.0,
+            "no2": 23.0,
+            "co": 0.9,
+            "o3": 120.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8fde\u4e91\u6e2f",
+            "province": "\u6c5f\u82cf",
+            "aqi": 174.0,
+            "pm2_5": 64.0,
+            "pm10": 69.0,
+            "so2": 9.0,
+            "no2": 20.0,
+            "co": 0.9,
+            "o3": 144.0,
+            "primary_pollutant": "\u7ec6\u9897\u7c92\u7269(PM2.5)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u968f\u5dde",
+            "province": "\u6e56\u5317",
+            "aqi": 128.0,
+            "pm2_5": 28.0,
+            "pm10": 49.0,
+            "so2": 5.0,
+            "no2": 8.0,
+            "co": 0.5,
+            "o3": 121.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9042\u5b81",
+            "province": "\u56db\u5ddd",
+            "aqi": 260.0,
+            "pm2_5": 53.0,
+            "pm10": 99.0,
+            "so2": 14.0,
+            "no2": 45.0,
+            "co": 0.9,
+            "o3": 205.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8fbe\u5dde",
+            "province": "\u56db\u5ddd",
+            "aqi": 180.0,
+            "pm2_5": 54.0,
+            "pm10": 86.0,
+            "so2": 8.0,
+            "no2": 46.0,
+            "co": 0.9,
+            "o3": 160.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5f20\u5bb6\u53e3",
+            "province": "\u6cb3\u5317",
+            "aqi": 266.0,
+            "pm2_5": 71.0,
+            "pm10": 163.0,
+            "so2": 14.0,
+            "no2": 25.0,
+            "co": 1.3,
+            "o3": 211.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u53cc\u9e2d\u5c71",
+            "province": "\u9ed1\u9f99\u6c5f",
+            "aqi": 160.0,
+            "pm2_5": 32.0,
+            "pm10": 64.0,
+            "so2": 6.0,
+            "no2": 14.0,
+            "co": 0.5,
+            "o3": 144.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9633\u6c5f",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 48.0,
+            "pm2_5": 10.0,
+            "pm10": 20.0,
+            "so2": 6.0,
+            "no2": 6.0,
+            "co": 0.6,
+            "o3": 50.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5b9c\u6625",
+            "province": "\u6c5f\u897f",
+            "aqi": 106.0,
+            "pm2_5": 30.0,
+            "pm10": 49.0,
+            "so2": 15.0,
+            "no2": 17.0,
+            "co": 0.7,
+            "o3": 112.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u516d\u76d8\u6c34",
+            "province": "\u8d35\u5dde",
+            "aqi": 120.0,
+            "pm2_5": 28.0,
+            "pm10": 57.0,
+            "so2": 13.0,
+            "no2": 18.0,
+            "co": 0.5,
+            "o3": 117.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6986\u6797",
+            "province": "\u9655\u897f",
+            "aqi": 218.0,
+            "pm2_5": 36.0,
+            "pm10": 91.0,
+            "so2": 11.0,
+            "no2": 21.0,
+            "co": 1.1,
+            "o3": 182.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5185\u6c5f",
+            "province": "\u56db\u5ddd",
+            "aqi": 280.0,
+            "pm2_5": 55.0,
+            "pm10": 96.0,
+            "so2": 18.0,
+            "no2": 44.0,
+            "co": 0.8,
+            "o3": 239.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5ef6\u5b89",
+            "province": "\u9655\u897f",
+            "aqi": 176.0,
+            "pm2_5": 37.0,
+            "pm10": 102.0,
+            "so2": 11.0,
+            "no2": 46.0,
+            "co": 1.2,
+            "o3": 161.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5e7f\u5143",
+            "province": "\u56db\u5ddd",
+            "aqi": 222.0,
+            "pm2_5": 58.0,
+            "pm10": 81.0,
+            "so2": 27.0,
+            "no2": 44.0,
+            "co": 0.8,
+            "o3": 208.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u82cf\u5dde",
+            "province": "\u6c5f\u82cf",
+            "aqi": 224.0,
+            "pm2_5": 47.0,
+            "pm10": 76.0,
+            "so2": 8.0,
+            "no2": 39.0,
+            "co": 0.7,
+            "o3": 177.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u767d\u57ce",
+            "province": "\u5409\u6797",
+            "aqi": 0.0,
+            "pm2_5": 0.0,
+            "pm10": 0.0,
+            "so2": 12.0,
+            "no2": 15.0,
+            "co": 0.8,
+            "o3": 186.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8944\u9633",
+            "province": "\u6e56\u5317",
+            "aqi": 162.0,
+            "pm2_5": 34.0,
+            "pm10": 68.0,
+            "so2": 9.0,
+            "no2": 11.0,
+            "co": 0.8,
+            "o3": 142.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5b89\u5eb7",
+            "province": "\u9655\u897f",
+            "aqi": 164.0,
+            "pm2_5": 38.0,
+            "pm10": 64.0,
+            "so2": 9.0,
+            "no2": 14.0,
+            "co": 0.5,
+            "o3": 161.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e3d\u6c5f",
+            "province": "\u4e91\u5357",
+            "aqi": 96.0,
+            "pm2_5": 8.0,
+            "pm10": 35.0,
+            "so2": 13.0,
+            "no2": 8.0,
+            "co": 0.6,
+            "o3": 100.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u957f\u6625",
+            "province": "\u5409\u6797",
+            "aqi": 180.0,
+            "pm2_5": 38.0,
+            "pm10": 76.0,
+            "so2": 5.0,
+            "no2": 25.0,
+            "co": 1.0,
+            "o3": 166.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5b89\u9633",
+            "province": "\u6cb3\u5357",
+            "aqi": 116.0,
+            "pm2_5": 39.0,
+            "pm10": 66.0,
+            "so2": 11.0,
+            "no2": 28.0,
+            "co": 1.3,
+            "o3": 111.0,
+            "primary_pollutant": "PM10"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u957f\u6c99",
+            "province": "\u6e56\u5357",
+            "aqi": 100.0,
+            "pm2_5": 20.0,
+            "pm10": 41.0,
+            "so2": 10.0,
+            "no2": 20.0,
+            "co": 0.6,
+            "o3": 114.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e03\u53f0\u6cb3",
+            "province": "\u9ed1\u9f99\u6c5f",
+            "aqi": 280.0,
+            "pm2_5": 64.0,
+            "pm10": 154.0,
+            "so2": 18.0,
+            "no2": 32.0,
+            "co": 0.6,
+            "o3": 220.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5357\u5b81",
+            "province": "\u5e7f\u897f",
+            "aqi": 74.0,
+            "pm2_5": 18.0,
+            "pm10": 35.0,
+            "so2": 8.0,
+            "no2": 19.0,
+            "co": 0.8,
+            "o3": 77.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u56fa\u539f",
+            "province": "\u5b81\u590f",
+            "aqi": 198.0,
+            "pm2_5": 39.0,
+            "pm10": 96.0,
+            "so2": 6.0,
+            "no2": 33.0,
+            "co": 0.6,
+            "o3": 169.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8861\u9633",
+            "province": "\u6e56\u5357",
+            "aqi": 90.0,
+            "pm2_5": 24.0,
+            "pm10": 45.0,
+            "so2": 17.0,
+            "no2": 16.0,
+            "co": 0.8,
+            "o3": 81.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u767d\u94f6",
+            "province": "\u7518\u8083",
+            "aqi": 186.0,
+            "pm2_5": 40.0,
+            "pm10": 136.0,
+            "so2": 26.0,
+            "no2": 24.0,
+            "co": 0.8,
+            "o3": 128.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u767e\u8272",
+            "province": "\u5e7f\u897f",
+            "aqi": 110.0,
+            "pm2_5": 29.0,
+            "pm10": 60.0,
+            "so2": 17.0,
+            "no2": 21.0,
+            "co": 1.2,
+            "o3": 113.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10),\u81ed\u6c278\u5c0f\u65f6(O3_8"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e4c\u6d77",
+            "province": "\u5185\u8499\u53e4",
+            "aqi": 314.0,
+            "pm2_5": 51.0,
+            "pm10": 168.0,
+            "so2": 57.0,
+            "no2": 28.0,
+            "co": 1.0,
+            "o3": 247.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e09\u4e9a",
+            "province": "\u6d77\u5357",
+            "aqi": 44.0,
+            "pm2_5": 10.0,
+            "pm10": 20.0,
+            "so2": 3.0,
+            "no2": 11.0,
+            "co": 0.6,
+            "o3": 48.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5510\u5c71",
+            "province": "\u6cb3\u5317",
+            "aqi": 204.0,
+            "pm2_5": 76.0,
+            "pm10": 151.0,
+            "so2": 51.0,
+            "no2": 71.0,
+            "co": 2.5,
+            "o3": 170.0,
+            "primary_pollutant": "\u7ec6\u9897\u7c92\u7269(PM2.5)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u798f\u5dde",
+            "province": "\u798f\u5efa",
+            "aqi": 196.0,
+            "pm2_5": 30.0,
+            "pm10": 66.0,
+            "so2": 9.0,
+            "no2": 28.0,
+            "co": 0.7,
+            "o3": 185.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e1c\u8425",
+            "province": "\u5c71\u4e1c",
+            "aqi": 176.0,
+            "pm2_5": 65.0,
+            "pm10": 117.0,
+            "so2": 25.0,
+            "no2": 26.0,
+            "co": 1.2,
+            "o3": 178.0,
+            "primary_pollutant": "\u7ec6\u9897\u7c92\u7269(PM2.5)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u547c\u548c\u6d69\u7279",
+            "province": "\u5185\u8499\u53e4",
+            "aqi": 300.0,
+            "pm2_5": 51.0,
+            "pm10": 150.0,
+            "so2": 19.0,
+            "no2": 54.0,
+            "co": 0.9,
+            "o3": 232.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u60e0\u5dde",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 88.0,
+            "pm2_5": 17.0,
+            "pm10": 31.0,
+            "so2": 6.0,
+            "no2": 19.0,
+            "co": 0.5,
+            "o3": 97.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5929\u6d25",
+            "province": "\u5929\u6d25",
+            "aqi": 196.0,
+            "pm2_5": 73.0,
+            "pm10": 96.0,
+            "so2": 10.0,
+            "no2": 48.0,
+            "co": 1.3,
+            "o3": 175.0,
+            "primary_pollutant": "\u7ec6\u9897\u7c92\u7269(PM2.5)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8862\u5dde",
+            "province": "\u6d59\u6c5f",
+            "aqi": 134.0,
+            "pm2_5": 32.0,
+            "pm10": 50.0,
+            "so2": 8.0,
+            "no2": 30.0,
+            "co": 0.7,
+            "o3": 136.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6dee\u5317",
+            "province": "\u5b89\u5fbd",
+            "aqi": 132.0,
+            "pm2_5": 37.0,
+            "pm10": 70.0,
+            "so2": 14.0,
+            "no2": 18.0,
+            "co": 0.8,
+            "o3": 125.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u53f0\u5dde",
+            "province": "\u6d59\u6c5f",
+            "aqi": 134.0,
+            "pm2_5": 25.0,
+            "pm10": 40.0,
+            "so2": 4.0,
+            "no2": 6.0,
+            "co": 0.4,
+            "o3": 134.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5f20\u6396",
+            "province": "\u7518\u8083",
+            "aqi": 112.0,
+            "pm2_5": 26.0,
+            "pm10": 56.0,
+            "so2": 6.0,
+            "no2": 17.0,
+            "co": 0.3,
+            "o3": 112.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e1c\u839e",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 88.0,
+            "pm2_5": 15.0,
+            "pm10": 24.0,
+            "so2": 6.0,
+            "no2": 20.0,
+            "co": 0.5,
+            "o3": 100.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9632\u57ce\u6e2f",
+            "province": "\u5e7f\u897f",
+            "aqi": 58.0,
+            "pm2_5": 13.0,
+            "pm10": 29.0,
+            "so2": 10.0,
+            "no2": 10.0,
+            "co": 0.7,
+            "o3": 53.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5357\u5145",
+            "province": "\u56db\u5ddd",
+            "aqi": 280.0,
+            "pm2_5": 65.0,
+            "pm10": 105.0,
+            "so2": 9.0,
+            "no2": 42.0,
+            "co": 0.9,
+            "o3": 228.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u53a6\u95e8",
+            "province": "\u798f\u5efa",
+            "aqi": 50.0,
+            "pm2_5": 11.0,
+            "pm10": 22.0,
+            "so2": 9.0,
+            "no2": 20.0,
+            "co": 0.3,
+            "o3": 57.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5b9d\u9e21",
+            "province": "\u9655\u897f",
+            "aqi": 230.0,
+            "pm2_5": 44.0,
+            "pm10": 112.0,
+            "so2": 9.0,
+            "no2": 45.0,
+            "co": 0.8,
+            "o3": 191.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u76d8\u9526",
+            "province": "\u8fbd\u5b81",
+            "aqi": 192.0,
+            "pm2_5": 45.0,
+            "pm10": 56.0,
+            "so2": 11.0,
+            "no2": 16.0,
+            "co": 1.0,
+            "o3": 176.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5bbf\u8fc1",
+            "province": "\u6c5f\u82cf",
+            "aqi": 146.0,
+            "pm2_5": 46.0,
+            "pm10": 68.0,
+            "so2": 16.0,
+            "no2": 22.0,
+            "co": 0.8,
+            "o3": 135.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4fdd\u5c71",
+            "province": "\u4e91\u5357",
+            "aqi": 120.0,
+            "pm2_5": 21.0,
+            "pm10": 35.0,
+            "so2": 6.0,
+            "no2": 8.0,
+            "co": 0.5,
+            "o3": 115.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5929\u6c34",
+            "province": "\u7518\u8083",
+            "aqi": 198.0,
+            "pm2_5": 42.0,
+            "pm10": 95.0,
+            "so2": 9.0,
+            "no2": 33.0,
+            "co": 0.7,
+            "o3": 170.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5a01\u6d77",
+            "province": "\u5c71\u4e1c",
+            "aqi": 94.0,
+            "pm2_5": 25.0,
+            "pm10": 36.0,
+            "so2": 6.0,
+            "no2": 19.0,
+            "co": 0.4,
+            "o3": 107.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8d64\u5cf0",
+            "province": "\u5185\u8499\u53e4",
+            "aqi": 192.0,
+            "pm2_5": 52.0,
+            "pm10": 142.0,
+            "so2": 16.0,
+            "no2": 23.0,
+            "co": 0.8,
+            "o3": 170.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6d77\u53e3",
+            "province": "\u6d77\u5357",
+            "aqi": 82.0,
+            "pm2_5": 10.0,
+            "pm10": 27.0,
+            "so2": 4.0,
+            "no2": 14.0,
+            "co": 0.5,
+            "o3": 114.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u7261\u4e39\u6c5f",
+            "province": "\u9ed1\u9f99\u6c5f",
+            "aqi": 154.0,
+            "pm2_5": 42.0,
+            "pm10": 97.0,
+            "so2": 4.0,
+            "no2": 27.0,
+            "co": 0.7,
+            "o3": 141.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5fb7\u9633",
+            "province": "\u56db\u5ddd",
+            "aqi": 328.0,
+            "pm2_5": 58.0,
+            "pm10": 118.0,
+            "so2": 14.0,
+            "no2": 36.0,
+            "co": 0.8,
+            "o3": 258.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u7709\u5c71",
+            "province": "\u56db\u5ddd",
+            "aqi": 352.0,
+            "pm2_5": 50.0,
+            "pm10": 99.0,
+            "so2": 19.0,
+            "no2": 74.0,
+            "co": 0.9,
+            "o3": 265.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5357\u5e73",
+            "province": "\u798f\u5efa",
+            "aqi": 114.0,
+            "pm2_5": 27.0,
+            "pm10": 44.0,
+            "so2": 4.0,
+            "no2": 14.0,
+            "co": 0.7,
+            "o3": 118.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5c71\u5357",
+            "province": "\u897f\u85cf",
+            "aqi": 178.0,
+            "pm2_5": 14.0,
+            "pm10": 21.0,
+            "so2": 4.0,
+            "no2": 10.0,
+            "co": 0.6,
+            "o3": 152.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u547c\u4f26\u8d1d\u5c14",
+            "province": "\u5185\u8499\u53e4",
+            "aqi": 188.0,
+            "pm2_5": 18.0,
+            "pm10": 138.0,
+            "so2": 2.0,
+            "no2": 14.0,
+            "co": 0.2,
+            "o3": 110.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u629a\u987a",
+            "province": "\u8fbd\u5b81",
+            "aqi": 170.0,
+            "pm2_5": 29.0,
+            "pm10": 54.0,
+            "so2": 18.0,
+            "no2": 13.0,
+            "co": 0.8,
+            "o3": 154.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u56db\u5e73",
+            "province": "\u5409\u6797",
+            "aqi": 238.0,
+            "pm2_5": 43.0,
+            "pm10": 112.0,
+            "so2": 6.0,
+            "no2": 11.0,
+            "co": 0.7,
+            "o3": 202.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6e29\u5dde",
+            "province": "\u6d59\u6c5f",
+            "aqi": 106.0,
+            "pm2_5": 29.0,
+            "pm10": 55.0,
+            "so2": 7.0,
+            "no2": 15.0,
+            "co": 0.7,
+            "o3": 118.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6cf0\u5dde",
+            "province": "\u6c5f\u82cf",
+            "aqi": 176.0,
+            "pm2_5": 54.0,
+            "pm10": 93.0,
+            "so2": 13.0,
+            "no2": 42.0,
+            "co": 1.2,
+            "o3": 161.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5357\u9633",
+            "province": "\u6cb3\u5357",
+            "aqi": 146.0,
+            "pm2_5": 31.0,
+            "pm10": 64.0,
+            "so2": 6.0,
+            "no2": 18.0,
+            "co": 0.7,
+            "o3": 139.0,
+            "primary_pollutant": "O3"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u846b\u82a6\u5c9b",
+            "province": "\u8fbd\u5b81",
+            "aqi": 142.0,
+            "pm2_5": 40.0,
+            "pm10": 53.0,
+            "so2": 9.0,
+            "no2": 16.0,
+            "co": 1.1,
+            "o3": 138.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9075\u4e49",
+            "province": "\u8d35\u5dde",
+            "aqi": 164.0,
+            "pm2_5": 34.0,
+            "pm10": 64.0,
+            "so2": 13.0,
+            "no2": 29.0,
+            "co": 0.6,
+            "o3": 144.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5e7f\u5dde",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 130.0,
+            "pm2_5": 19.0,
+            "pm10": 34.0,
+            "so2": 9.0,
+            "no2": 31.0,
+            "co": 0.6,
+            "o3": 153.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8386\u7530",
+            "province": "\u798f\u5efa",
+            "aqi": 108.0,
+            "pm2_5": 22.0,
+            "pm10": 44.0,
+            "so2": 10.0,
+            "no2": 22.0,
+            "co": 0.6,
+            "o3": 142.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u67a3\u5e84",
+            "province": "\u5c71\u4e1c",
+            "aqi": 168.0,
+            "pm2_5": 48.0,
+            "pm10": 107.0,
+            "so2": 11.0,
+            "no2": 26.0,
+            "co": 0.6,
+            "o3": 156.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8087\u5e86",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 86.0,
+            "pm2_5": 17.0,
+            "pm10": 31.0,
+            "so2": 14.0,
+            "no2": 14.0,
+            "co": 0.5,
+            "o3": 95.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u96c5\u5b89",
+            "province": "\u56db\u5ddd",
+            "aqi": 274.0,
+            "pm2_5": 63.0,
+            "pm10": 80.0,
+            "so2": 18.0,
+            "no2": 21.0,
+            "co": 0.6,
+            "o3": 224.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u90af\u90f8",
+            "province": "\u6cb3\u5317",
+            "aqi": 134.0,
+            "pm2_5": 44.0,
+            "pm10": 83.0,
+            "so2": 10.0,
+            "no2": 21.0,
+            "co": 1.0,
+            "o3": 102.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8346\u5dde",
+            "province": "\u6e56\u5317",
+            "aqi": 118.0,
+            "pm2_5": 31.0,
+            "pm10": 61.0,
+            "so2": 12.0,
+            "no2": 17.0,
+            "co": 0.9,
+            "o3": 117.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6dee\u5357",
+            "province": "\u5b89\u5fbd",
+            "aqi": 160.0,
+            "pm2_5": 43.0,
+            "pm10": 62.0,
+            "so2": 18.0,
+            "no2": 15.0,
+            "co": 0.6,
+            "o3": 145.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6cb3\u6e90",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 162.0,
+            "pm2_5": 27.0,
+            "pm10": 32.0,
+            "so2": 6.0,
+            "no2": 13.0,
+            "co": 0.6,
+            "o3": 154.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u961c\u9633",
+            "province": "\u5b89\u5fbd",
+            "aqi": 110.0,
+            "pm2_5": 33.0,
+            "pm10": 59.0,
+            "so2": 7.0,
+            "no2": 15.0,
+            "co": 0.5,
+            "o3": 113.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10),\u81ed\u6c278\u5c0f\u65f6(O3_8"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5df4\u5f66\u6dd6\u5c14",
+            "province": "\u5185\u8499\u53e4",
+            "aqi": 234.0,
+            "pm2_5": 42.0,
+            "pm10": 133.0,
+            "so2": 9.0,
+            "no2": 14.0,
+            "co": 0.4,
+            "o3": 215.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u94f6\u5ddd",
+            "province": "\u5b81\u590f",
+            "aqi": 242.0,
+            "pm2_5": 41.0,
+            "pm10": 120.0,
+            "so2": 17.0,
+            "no2": 39.0,
+            "co": 0.8,
+            "o3": 206.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5305\u5934",
+            "province": "\u5185\u8499\u53e4",
+            "aqi": 262.0,
+            "pm2_5": 39.0,
+            "pm10": 104.0,
+            "so2": 18.0,
+            "no2": 42.0,
+            "co": 0.7,
+            "o3": 214.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u90b5\u9633",
+            "province": "\u6e56\u5357",
+            "aqi": 88.0,
+            "pm2_5": 26.0,
+            "pm10": 44.0,
+            "so2": 12.0,
+            "no2": 13.0,
+            "co": 0.6,
+            "o3": 87.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6210\u90fd",
+            "province": "\u56db\u5ddd",
+            "aqi": 378.0,
+            "pm2_5": 66.0,
+            "pm10": 152.0,
+            "so2": 14.0,
+            "no2": 71.0,
+            "co": 1.0,
+            "o3": 289.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e91\u6d6e",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 72.0,
+            "pm2_5": 16.0,
+            "pm10": 30.0,
+            "so2": 7.0,
+            "no2": 12.0,
+            "co": 0.6,
+            "o3": 77.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6c60\u5dde",
+            "province": "\u5b89\u5fbd",
+            "aqi": 92.0,
+            "pm2_5": 26.0,
+            "pm10": 40.0,
+            "so2": 8.0,
+            "no2": 23.0,
+            "co": 0.4,
+            "o3": 102.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u68a7\u5dde",
+            "province": "\u5e7f\u897f",
+            "aqi": 102.0,
+            "pm2_5": 30.0,
+            "pm10": 52.0,
+            "so2": 10.0,
+            "no2": 25.0,
+            "co": 0.9,
+            "o3": 87.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6f33\u5dde",
+            "province": "\u798f\u5efa",
+            "aqi": 100.0,
+            "pm2_5": 19.0,
+            "pm10": 38.0,
+            "so2": 6.0,
+            "no2": 16.0,
+            "co": 0.7,
+            "o3": 120.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u65e5\u7167",
+            "province": "\u5c71\u4e1c",
+            "aqi": 126.0,
+            "pm2_5": 35.0,
+            "pm10": 58.0,
+            "so2": 9.0,
+            "no2": 18.0,
+            "co": 0.5,
+            "o3": 136.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5468\u53e3",
+            "province": "\u6cb3\u5357",
+            "aqi": 132.0,
+            "pm2_5": 32.0,
+            "pm10": 69.0,
+            "so2": 8.0,
+            "no2": 14.0,
+            "co": 0.8,
+            "o3": 128.0,
+            "primary_pollutant": "O3"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5fb7\u5dde",
+            "province": "\u5c71\u4e1c",
+            "aqi": 112.0,
+            "pm2_5": 35.0,
+            "pm10": 61.0,
+            "so2": 11.0,
+            "no2": 22.0,
+            "co": 0.8,
+            "o3": 104.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e34\u6c82",
+            "province": "\u5c71\u4e1c",
+            "aqi": 196.0,
+            "pm2_5": 45.0,
+            "pm10": 120.0,
+            "so2": 12.0,
+            "no2": 31.0,
+            "co": 1.2,
+            "o3": 184.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u97f6\u5173",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 186.0,
+            "pm2_5": 28.0,
+            "pm10": 48.0,
+            "so2": 16.0,
+            "no2": 25.0,
+            "co": 0.7,
+            "o3": 163.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u664b\u57ce",
+            "province": "\u5c71\u897f",
+            "aqi": 180.0,
+            "pm2_5": 42.0,
+            "pm10": 79.0,
+            "so2": 16.0,
+            "no2": 23.0,
+            "co": 0.9,
+            "o3": 155.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u94c1\u5cad",
+            "province": "\u8fbd\u5b81",
+            "aqi": 176.0,
+            "pm2_5": 33.0,
+            "pm10": 85.0,
+            "so2": 8.0,
+            "no2": 19.0,
+            "co": 0.5,
+            "o3": 157.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5df4\u4e2d",
+            "province": "\u56db\u5ddd",
+            "aqi": 170.0,
+            "pm2_5": 48.0,
+            "pm10": 80.0,
+            "so2": 6.0,
+            "no2": 28.0,
+            "co": 0.9,
+            "o3": 151.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u957f\u6cbb",
+            "province": "\u5c71\u897f",
+            "aqi": 178.0,
+            "pm2_5": 32.0,
+            "pm10": 58.0,
+            "so2": 9.0,
+            "no2": 15.0,
+            "co": 0.7,
+            "o3": 165.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5415\u6881",
+            "province": "\u5c71\u897f",
+            "aqi": 168.0,
+            "pm2_5": 59.0,
+            "pm10": 106.0,
+            "so2": 38.0,
+            "no2": 62.0,
+            "co": 2.4,
+            "o3": 182.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u79e6\u7687\u5c9b",
+            "province": "\u6cb3\u5317",
+            "aqi": 146.0,
+            "pm2_5": 50.0,
+            "pm10": 96.0,
+            "so2": 9.0,
+            "no2": 32.0,
+            "co": 0.9,
+            "o3": 157.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u592a\u539f",
+            "province": "\u5c71\u897f",
+            "aqi": 256.0,
+            "pm2_5": 91.0,
+            "pm10": 206.0,
+            "so2": 14.0,
+            "no2": 44.0,
+            "co": 1.0,
+            "o3": 192.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5b5d\u611f",
+            "province": "\u6e56\u5317",
+            "aqi": 148.0,
+            "pm2_5": 25.0,
+            "pm10": 50.0,
+            "so2": 9.0,
+            "no2": 10.0,
+            "co": 0.8,
+            "o3": 142.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5b9a\u897f",
+            "province": "\u7518\u8083",
+            "aqi": 148.0,
+            "pm2_5": 38.0,
+            "pm10": 98.0,
+            "so2": 6.0,
+            "no2": 26.0,
+            "co": 0.4,
+            "o3": 133.0,
+            "primary_pollutant": "\u9897\u7c92\u7269(PM10)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e2d\u536b",
+            "province": "\u5b81\u590f",
+            "aqi": 0.0,
+            "pm2_5": 0.0,
+            "pm10": 0.0,
+            "so2": 12.0,
+            "no2": 20.0,
+            "co": 0.6,
+            "o3": 124.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6f6e\u5dde",
+            "province": "\u5e7f\u4e1c",
+            "aqi": 100.0,
+            "pm2_5": 19.0,
+            "pm10": 42.0,
+            "so2": 15.0,
+            "no2": 12.0,
+            "co": 0.9,
+            "o3": 120.0,
+            "primary_pollutant": "\u2014"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u6e2d\u5357",
+            "province": "\u9655\u897f",
+            "aqi": 218.0,
+            "pm2_5": 35.0,
+            "pm10": 89.0,
+            "so2": 15.0,
+            "no2": 32.0,
+            "co": 0.7,
+            "o3": 184.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u9526\u5dde",
+            "province": "\u8fbd\u5b81",
+            "aqi": 144.0,
+            "pm2_5": 43.0,
+            "pm10": 65.0,
+            "so2": 29.0,
+            "no2": 23.0,
+            "co": 0.9,
+            "o3": 143.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u8d44\u9633",
+            "province": "\u56db\u5ddd",
+            "aqi": 280.0,
+            "pm2_5": 33.0,
+            "pm10": 88.0,
+            "so2": 10.0,
+            "no2": 44.0,
+            "co": 0.8,
+            "o3": 218.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u767d\u5c71",
+            "province": "\u5409\u6797",
+            "aqi": 144.0,
+            "pm2_5": 44.0,
+            "pm10": 78.0,
+            "so2": 10.0,
+            "no2": 15.0,
+            "co": 1.0,
+            "o3": 134.0,
+            "primary_pollutant": "\u81ed\u6c278\u5c0f\u65f6(O3_8h)"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u4e09\u95e8\u5ce1",
+            "province": "\u6cb3\u5357",
+            "aqi": 146.0,
+            "pm2_5": 39.0,
+            "pm10": 80.0,
+            "so2": 9.0,
+            "no2": 25.0,
+            "co": 0.8,
+            "o3": 148.0,
+            "primary_pollutant": "O3"
+        }
+    },
+    {
+        "data": {
+            "time": "2024-05-13",
+            "cityname": "\u5317\u6d77",
+            "province": "\u5e7f\u897f",
+            "aqi": 62.0,
+            "pm2_5": 7.0,
+            "pm10": 31.0,
+            "so2": 6.0,
+            "no2": 8.0,
+            "co": 0.6,
+            "o3": 57.0,
+            "primary_pollutant": "\u2014"
+        }
+    }
 ]
