@@ -113,9 +113,9 @@ def rank(req: HttpRequest):
             province = data.get('province')
             city_aqi_map[city] = aqi
             city_province_map[city] = province
-            print(city)
-            print(aqi)
-            print(province)
+            # print(city)
+            # print(aqi)
+            # print(province)
             # 对城市按照 AQI 值进行排序
         sorted_cities = sorted(city_aqi_map.items(), key=lambda x: x[1], reverse=True)
         response_data = []
@@ -181,20 +181,18 @@ def get_current_weather(data):
 
 @simple_post_api
 def gpt_analysis(data):
+    tint_words = "请根据以下json数据，并根据当地人文、地理等因素，分析{}的空气质量变化成因\n\n{}"
+
     target_city = data['city']
-    annual_weather_data = annual_weather_func({
-        "city_pinyin": "".join(map(lambda e: e[0], pinyin(target_city, style=Style.NORMAL))),
-        "year": datetime.today().year - 1
-    })
-    annual_weather_data = json.dumps(list(map(lambda e: {
+
+    return {"answer": chat(tint_words.format(target_city, json.dumps(list(map(lambda e: {
+        "year": e["year"],
         "month": e['month'],
         "average_temperature": e['average_temperature']['value'],
         "average_aqi": e['average_aqi']['value'],
         "best_air": e['best_air'],
         "worst_air": e['worst_air'],
-    }, annual_weather_data)))
-    tint_words = "请根据以下json数据，并根据当地人文、地理等因素，分析{}的空气质量变化成因\n\n{}"
-    tint_words = tint_words.format(target_city, annual_weather_data)
-    return {
-        "answer": chat(tint_words)
-    }
+    }, annual_weather_func({
+        "city_pinyin": "".join(map(lambda e: e[0], pinyin(target_city, style=Style.NORMAL))),
+        "year": datetime.today().year - 1
+    }))))))}

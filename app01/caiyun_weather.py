@@ -38,5 +38,5 @@ def get_weather(lon=120.35, lan=30.31) -> dict | int:
 
 
 def get_weather_test(lon=120.35, lan=30.31) -> dict | int:
-    print("Get Weather:", "{}, {}".format(lon, lan))
+    # print("Get Weather:", "{}, {}".format(lon, lan))
     return dict(test_current_weather)

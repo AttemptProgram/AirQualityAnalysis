@@ -82,7 +82,7 @@ def get_city_history_homepage(city_pinyin: str):
 
 def get_city_history(city_pinyin: str, year: int, month: int):
     url = f"https://lishi.tianqi.com/{city_pinyin}/{str(year).zfill(4) + str(month).zfill(2)}.html"
-    print("Target URL:", url)
+    # print("Target URL:", url)
     soup = browser(url)
 
     res: dict[str, any] = {
