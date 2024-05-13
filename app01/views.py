@@ -1,6 +1,6 @@
-from datetime import datetime
 import json
 import threading
+from datetime import datetime
 
 from django.http import HttpResponse, HttpRequest
 from django.shortcuts import render
@@ -39,7 +39,9 @@ def test(request):
 def air_quality(di):
     if 'city_name' in di and 'date' in di:
         city_name = di['city_name']
-        date = di['date'].split("T")[0]
+        date = di['date'].split('T')[0]
+        # print('air_quality:'+city_name)
+        # print('air_quality:'+date)
         data = AirQuality.objects.filter(cityname=city_name, time=date).first()
         response_data = []
         if data:
