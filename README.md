@@ -13,3 +13,26 @@
 > - [彩云开放平台](https://platform.caiyunapp.com)
 > - [ChatGPT](https://chat.openai.com)
 
+# Django 后端部署指南
+
+> 保证本机或虚拟环境的 Python 版本 >= 3.11.0
+
+## 初始化
+
+```shell
+cd path/to/fit/server
+
+git clone https://github.com/AttemptProgram/AirQualityAnalysis.git
+cd AirQualityAnalysis
+
+pip install -r requirements.txt
+python manage.py makemigrations
+python manage.py migrate
+python manage.py import_data
+```
+
+## 运行
+
+```shell
+python manage.py runserver 0.0.0.0:8000
+```
