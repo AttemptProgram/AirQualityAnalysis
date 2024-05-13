@@ -39,14 +39,16 @@ def test(request):
 def air_quality(di):
     if 'city_name' in di and 'date' in di:
         city_name = di['city_name']
+        print("air_quality:"+city_name)
         date = di['date'].split("T")[0]
+        print("air_quality:"+date)
         data = AirQuality.objects.filter(cityname=city_name, time=date).first()
         response_data = []
         if data:
             response_data = {
                 'data': {
-                    'time': data.time,
-                    'cityname': data.cityname,
+                    'time': date,
+                    'cityname': city_name,
                     'aqi': data.aqi,
                     'pm2_5': data.pm2_5,
                     'pm10': data.pm10,
@@ -57,6 +59,7 @@ def air_quality(di):
                     'primary_pollutant': data.primary_pollutant
                 }
             }
+            print(response_data)
         return response_data
 
 
