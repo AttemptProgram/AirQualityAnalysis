@@ -4,3 +4,4 @@ matplotlib~=3.8.4
 pandas~=2.2.1
 beautifulsoup4~=4.12.2
 mysqlclient~=2.0.3
+django-cors-headers~=4.3.1
