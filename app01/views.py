@@ -173,6 +173,11 @@ def get_current_weather(data):
         return 404
 
 
+# 雾霾是近几年来出现频率很高的热门词汇，也是人们关注度最高的热点问题，
+# 尤其在人口众多、经济发达的城市，重度空气污染事件频频发生。
+# 选择某个或某几个城市分析其空气质量变化情况，
+# 探索气温、气压、风向、风速等气象因素、城市建设或人口活动等因素对空气质量的影响
+
 @simple_post_api
 def gpt_analysis(data):
     target_city = data['city']
