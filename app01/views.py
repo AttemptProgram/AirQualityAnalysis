@@ -1,3 +1,4 @@
+from datetime import datetime
 import json
 import threading
 
@@ -38,7 +39,7 @@ def test(request):
 def air_quality(di):
     if 'city_name' in di and 'date' in di:
         city_name = di['city_name']
-        date = di['date']
+        date = di['date'].split("T")[0]
         data = AirQuality.objects.filter(cityname=city_name, time=date).first()
         response_data = []
         if data:
@@ -169,3 +170,11 @@ def get_current_weather(data):
         return get_weather(target_city['longitude'], target_city['latitude'])
     else:
         return 404
+
+
+@simple_post_api
+def gpt_analysis(data):
+    target_city = data['city']
+    current_year = datetime.today().year
+    tint_words = "请根据"
+    pass
