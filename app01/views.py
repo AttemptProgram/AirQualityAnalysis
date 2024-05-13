@@ -5,12 +5,14 @@ from datetime import datetime
 
 from django.http import HttpResponse, HttpRequest
 from django.shortcuts import render
+from pypinyin import pinyin, Style
+
 # Create your views here.
 from app01.models import AirQuality
 from app01.caiyun_weather import city_data, city_centers, get_city_position_by_name, get_weather
 from app01.spyder import *
 
-from app01.util import simple_post_api
+from app01.util import simple_post_api, chat
 
 
 def orm(request):
@@ -183,6 +185,19 @@ def get_current_weather(data):
 @simple_post_api
 def gpt_analysis(data):
     target_city = data['city']
-    current_year = datetime.today().year
-    tint_words = "请根据"
-    pass
+    annual_weather_data = annual_weather_func({
+        "city_pinyin": "".join(map(lambda e: e[0], pinyin(target_city, style=Style.NORMAL))),
+        "year": datetime.today().year - 1
+    })
+    annual_weather_data = json.dumps(list(map(lambda e: {
+        "month": e['month'],
+        "average_temperature": e['average_temperature']['value'],
+        "average_aqi": e['average_aqi']['value'],
+        "best_air": e['best_air'],
+        "worst_air": e['worst_air'],
+    }, annual_weather_data)))
+    tint_words = "请根据以下json数据，并根据当地人文、地理等因素，分析{}的空气质量变化成因\n\n{}"
+    tint_words = tint_words.format(target_city, annual_weather_data)
+    return {
+        "answer": chat(tint_words)
+    }

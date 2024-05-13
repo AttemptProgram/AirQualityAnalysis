@@ -27,5 +27,6 @@ urlpatterns = [
     path("annually_weather/", views.annual_weather),
     path("get_city", views.get_city),
     path("current_weather/", views.get_current_weather),
-    path("rank",views.rank)
+    path("rank", views.rank),
+    path("gpt_analysis/", views.gpt_analysis),
 ]
