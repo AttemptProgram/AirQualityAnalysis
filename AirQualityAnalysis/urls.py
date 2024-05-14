@@ -20,14 +20,14 @@ from django.urls import path
 from app01 import views
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('orm', views.orm),
-    path('test', views.test),
-    path("air_quality/", views.air_quality),
-    path("annually_weather/", views.annual_weather),
-    path("get_city", views.get_city),
-    path("get_province", views.get_province),
-    path("current_weather/", views.get_current_weather),
-    path("rank", views.rank),
-    path("gpt_analysis/", views.gpt_analysis),
+    # path('api/admin/', admin.site.urls),
+    path('api/orm', views.orm),
+    path('api/test', views.test),
+    path("api/air_quality/", views.air_quality),
+    path("api/annually_weather/", views.annual_weather),
+    path("api/get_city", views.get_city),
+    path("api/get_province", views.get_province),
+    path("api/current_weather/", views.get_current_weather),
+    path("api/rank", views.rank),
+    path("api/gpt_analysis/", views.gpt_analysis),
 ]
